@@ -8,6 +8,7 @@ import com.vaadin.flow.component.orderedlayout.FlexLayout;
 import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.component.radiobutton.RadioButtonGroup;
+import com.vaadin.flow.component.textfield.IntegerField;
 // import com.vaadin.flow.component.checkbox.Checkbox;
 // import com.vaadin.flow.component.html.H1;
 // import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
@@ -32,10 +33,11 @@ public class MainView extends FlexLayout {
         DatePicker date = new DatePicker();
         date.setLabel("Fecha");
         date.setPlaceholder("Fecha de vacunación");
+        date.isRequired();
         TextField brand = new TextField();
         brand.setLabel("Marca");
         brand.setPlaceholder("Marca de la vacuna");
-        TextField batch = new TextField();
+        IntegerField batch = new IntegerField();
         batch.setLabel("Lote");
         batch.setPlaceholder("Lote de la vacuna");
         RadioButtonGroup<String> dose = new RadioButtonGroup<>();
@@ -107,6 +109,7 @@ public class MainView extends FlexLayout {
         send.addClickListener(click -> {
             Record record = new Record();
             record.setBrand(brand.getValue());
+            record.setBatch(batch.getValue());
             record.setDate(date.getValue());
 
             // System.out.println(record.getBrand());
