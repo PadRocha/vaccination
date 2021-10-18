@@ -35,10 +35,11 @@ public class MainView extends FlexLayout {
         TextField email = new TextField();
         email.setLabel("Correo Electrónico");
         email.setPlaceholder("correo@correo.com");
+        email.setRequired(true);
         email_content.add(email);
 
         // *------------------------------------------------------------------*/
-        // * Comment
+        // * Ailments
         // *------------------------------------------------------------------*/
 
         HorizontalLayout ailments_content = new HorizontalLayout();
@@ -55,13 +56,29 @@ public class MainView extends FlexLayout {
         row.add(record_form, user_form, email_content, adress_form, ailments_content, send);
         add(row);
 
-        record_form.binder.addStatusChangeListener(status -> {
-            send.setEnabled(record_form.isValid());
+        // *------------------------------------------------------------------*/
+        // * Changes
+        // *------------------------------------------------------------------*/
+
+        record_form.getBinder().addStatusChangeListener(status -> {
+            send.setEnabled(record_form.isValid() && user_form.isValid() && adress_form.isValid() && !email.isEmpty());
+        });
+
+        user_form.getBinder().addStatusChangeListener(status -> {
+            send.setEnabled(record_form.isValid() && user_form.isValid() && adress_form.isValid() && !email.isEmpty());
+        });
+
+        adress_form.getBinder().addStatusChangeListener(status -> {
+            send.setEnabled(record_form.isValid() && user_form.isValid() && adress_form.isValid() && !email.isEmpty());
+        });
+
+        email.addValueChangeListener(status -> {
+            send.setEnabled(record_form.isValid() && user_form.isValid() && adress_form.isValid() && !email.isEmpty());
         });
 
         send.setEnabled(false);
         send.addClickListener(click -> {
-            if (record_form.isValid() && user_form.isValid()) {
+            if (record_form.isValid() && user_form.isValid() && adress_form.isValid() && !email.isEmpty()) {
                 List<Record> records = new ArrayList<>();
                 Record record = new Record();
                 record_form.read(record);
@@ -72,7 +89,7 @@ public class MainView extends FlexLayout {
 
                 Adress adress = new Adress();
                 adress_form.read(adress);
-                // logger.info(record.getBrand());
+
                 Set<String> ails = _ailments.getValue();
                 Ailments ailments = new Ailments();
                 ailments.setDiabetes(ails.contains("Diabetes"));
@@ -82,7 +99,6 @@ public class MainView extends FlexLayout {
                 expediente.setEmail(email.getValue());
                 expedientes.add(expediente);
             }
-            ;
         });
     }
 }

@@ -7,14 +7,14 @@ import com.vaadin.flow.data.binder.Binder;
 import com.vaadin.flow.data.binder.ValidationException;
 
 public class AdressForm extends HorizontalLayout {
-    TextField street = new TextField();
-    TextField n_exterior = new TextField();
-    TextField n_interior = new TextField();
-    TextField suburb = new TextField();
-    TextField postal_code = new TextField();
-    TextField municipality = new TextField();
-    TextField state = new TextField();
-    Binder<Adress> binder = new BeanValidationBinder<>(Adress.class);
+    private TextField street = new TextField();
+    private TextField n_exterior = new TextField();
+    private TextField n_interior = new TextField();
+    private TextField suburb = new TextField();
+    private TextField postal_code = new TextField();
+    private TextField municipality = new TextField();
+    private TextField state = new TextField();
+    private Binder<Adress> binder = new BeanValidationBinder<>(Adress.class);
 
     public AdressForm() {
         street.setLabel("Calle");

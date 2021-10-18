@@ -7,10 +7,10 @@ import com.vaadin.flow.data.binder.Binder;
 import com.vaadin.flow.data.binder.ValidationException;
 
 public class UserForm extends HorizontalLayout {
-    TextField name = new TextField();
-    TextField surname = new TextField();
-    TextField second_surname = new TextField();
-    Binder<User> binder = new BeanValidationBinder<>(User.class);
+    private TextField name = new TextField();
+    private TextField surname = new TextField();
+    private TextField second_surname = new TextField();
+    private Binder<User> binder = new BeanValidationBinder<>(User.class);
 
     public UserForm() {
         name.setLabel("Nombre");

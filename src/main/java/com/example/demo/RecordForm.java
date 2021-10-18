@@ -10,11 +10,11 @@ import com.vaadin.flow.data.binder.ValidationException;
 import com.vaadin.flow.component.radiobutton.RadioButtonGroup;
 
 public class RecordForm extends HorizontalLayout {
-    DatePicker date = new DatePicker();
-    TextField brand = new TextField();
-    IntegerField batch = new IntegerField();
-    RadioButtonGroup<String> dose = new RadioButtonGroup<>();
-    Binder<Record> binder = new BeanValidationBinder<>(Record.class);
+    private DatePicker date = new DatePicker();
+    private TextField brand = new TextField();
+    private IntegerField batch = new IntegerField();
+    private RadioButtonGroup<String> dose = new RadioButtonGroup<>();
+    private Binder<Record> binder = new BeanValidationBinder<>(Record.class);
 
     public RecordForm() {
         date.setLabel("Fecha");
