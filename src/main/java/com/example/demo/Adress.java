@@ -2,6 +2,9 @@ package com.example.demo;
 
 import java.io.Serializable;
 
+import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.NotNull;
+
 public class Adress implements Serializable {
     @Override
     public int hashCode() {
@@ -61,12 +64,26 @@ public class Adress implements Serializable {
         return true;
     }
 
+    @NotNull
+    @NotEmpty
     private String street;
+    @NotNull
+    @NotEmpty
     private String n_exterior;
+    @NotNull
+    @NotEmpty
     private String n_interior;
+    @NotNull
+    @NotEmpty
     private String suburb;
+    @NotNull
+    @NotEmpty
     private int postal_code;
+    @NotNull
+    @NotEmpty
     private String municipality;
+    @NotNull
+    @NotEmpty
     private String state;
 
     public void setMunicipality(String municipality) {

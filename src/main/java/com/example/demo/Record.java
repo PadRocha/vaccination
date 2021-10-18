@@ -4,11 +4,54 @@ import java.io.Serializable;
 import java.time.LocalDate;
 // import java.util.Date;
 
+import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.NotNull;
+
 public class Record implements Serializable {
+    @NotNull
+    @NotEmpty
     private String brand;
+    @NotNull
+    @NotEmpty
     private int batch;
-    private int dose;
+    @NotNull
+    @NotEmpty
+    private String dose;
+    @NotNull
+    @NotEmpty
     private LocalDate date;
+
+    public void setBatch(int batch) {
+        this.batch = batch;
+    }
+
+    public void setBrand(String brand) {
+        this.brand = brand;
+    }
+
+    public void setDate(LocalDate date) {
+        this.date = date;
+    }
+
+    public void setDose(String dose) {
+        this.dose = dose;
+    }
+
+    public int getBatch() {
+        return batch;
+    }
+
+    public String getBrand() {
+        return brand;
+    }
+
+    public LocalDate getDate() {
+        return date;
+    }
+
+    public String getDose() {
+        return dose;
+    }
 
     @Override
     public int hashCode() {
@@ -17,7 +60,7 @@ public class Record implements Serializable {
         result = prime * result + batch;
         result = prime * result + ((brand == null) ? 0 : brand.hashCode());
         result = prime * result + ((date == null) ? 0 : date.hashCode());
-        result = prime * result + dose;
+        result = prime * result + ((dose == null) ? 0 : dose.hashCode());
         return result;
     }
 
@@ -42,40 +85,11 @@ public class Record implements Serializable {
                 return false;
         } else if (!date.equals(other.date))
             return false;
-        if (dose != other.dose)
+        if (dose == null) {
+            if (other.dose != null)
+                return false;
+        } else if (!dose.equals(other.dose))
             return false;
         return true;
-    }
-
-    public void setBatch(int batch) {
-        this.batch = batch;
-    }
-
-    public void setBrand(String brand) {
-        this.brand = brand;
-    }
-
-    public void setDate(LocalDate date) {
-        this.date = date;
-    }
-
-    public void setDose(int dose) {
-        this.dose = dose;
-    }
-
-    public int getBatch() {
-        return batch;
-    }
-
-    public String getBrand() {
-        return brand;
-    }
-
-    public LocalDate getDate() {
-        return date;
-    }
-
-    public int getDose() {
-        return dose;
     }
 }

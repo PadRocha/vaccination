@@ -3,12 +3,17 @@ package com.example.demo;
 import java.io.Serializable;
 import java.util.List;
 
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotNull;
+
 public class Expediente implements Serializable {
     private static final long serialVersionUID = 1L;
     private User user;
     private Adress adress;
     private List<Record> records;
     private Ailments ailments;
+    @Email
+    @NotNull
     String email;
 
     public Expediente(User user, Adress adress, List<Record> records, Ailments ailments) {

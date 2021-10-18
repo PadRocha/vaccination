@@ -2,9 +2,18 @@ package com.example.demo;
 
 import java.io.Serializable;
 
+import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.NotNull;
+
 public class User implements Serializable {
+    @NotNull
+    @NotEmpty
     private String name;
+    @NotNull
+    @NotEmpty
     private String surname;
+    @NotNull
+    @NotEmpty
     private String second_surname;
 
     @Override

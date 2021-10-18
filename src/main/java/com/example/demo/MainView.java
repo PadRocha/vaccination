@@ -1,65 +1,31 @@
 package com.example.demo;
 
-// import com.vaadin.flow.component.Text;
-// import com.vaadin.flow.component.Key;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Set;
+
 import com.vaadin.flow.component.button.Button;
+import com.vaadin.flow.component.checkbox.Checkbox;
 import com.vaadin.flow.component.checkbox.CheckboxGroup;
 import com.vaadin.flow.component.orderedlayout.FlexLayout;
 import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
-import com.vaadin.flow.component.radiobutton.RadioButtonGroup;
-import com.vaadin.flow.component.textfield.IntegerField;
-// import com.vaadin.flow.component.checkbox.Checkbox;
-// import com.vaadin.flow.component.html.H1;
-// import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
-// import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.component.textfield.TextField;
-import com.vaadin.flow.component.datepicker.DatePicker;
-// import com.vaadin.flow.component.html.Div;
-// import com.vaadin.flow.component.html.Paragraph;
 import com.vaadin.flow.router.Route;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 @Route("")
 public class MainView extends FlexLayout {
+    VerticalLayout row = new VerticalLayout();
+    Logger logger = LoggerFactory.getLogger(MainView.class);
+    List<Expediente> expedientes = new ArrayList<>();
 
     public MainView() {
-        VerticalLayout row = new VerticalLayout();
-
-        // *------------------------------------------------------------------*/
-        // * Record
-        // *------------------------------------------------------------------*/
-
-        HorizontalLayout record_content = new HorizontalLayout();
-        DatePicker date = new DatePicker();
-        date.setLabel("Fecha");
-        date.setPlaceholder("Fecha de vacunación");
-        date.isRequired();
-        TextField brand = new TextField();
-        brand.setLabel("Marca");
-        brand.setPlaceholder("Marca de la vacuna");
-        IntegerField batch = new IntegerField();
-        batch.setLabel("Lote");
-        batch.setPlaceholder("Lote de la vacuna");
-        RadioButtonGroup<String> dose = new RadioButtonGroup<>();
-        dose.setLabel("Dosis");
-        dose.setItems("Primera", "Segunda", "Única");
-        record_content.add(date, brand, batch, dose);
-
-        // *------------------------------------------------------------------*/
-        // * User
-        // *------------------------------------------------------------------*/
-
-        HorizontalLayout user_content = new HorizontalLayout();
-        TextField name = new TextField();
-        name.setLabel("Nombre");
-        name.setPlaceholder("Nombre de usuario");
-        TextField surname = new TextField();
-        surname.setLabel("Apellido");
-        surname.setPlaceholder("Apellido de usuario");
-        TextField second_surname = new TextField();
-        second_surname.setLabel("Segundo Apellido");
-        second_surname.setPlaceholder("Segundo Apellido de usuario");
-        user_content.add(name, surname, second_surname);
+        RecordForm record_form = new RecordForm();
+        UserForm user_form = new UserForm();
+        AdressForm adress_form = new AdressForm();
 
         // *------------------------------------------------------------------*/
         // * Email
@@ -72,47 +38,51 @@ public class MainView extends FlexLayout {
         email_content.add(email);
 
         // *------------------------------------------------------------------*/
-        // * Adress
-        // *------------------------------------------------------------------*/
-
-        HorizontalLayout adress_content = new HorizontalLayout();
-        TextField street = new TextField();
-        street.setLabel("Calle");
-        TextField n_exterior = new TextField();
-        n_exterior.setLabel("N° exterior");
-        TextField n_interior = new TextField();
-        n_interior.setLabel("N° interior");
-        TextField suburb = new TextField();
-        suburb.setLabel("Colonia");
-        TextField postal_code = new TextField();
-        postal_code.setLabel("C.P.");
-        TextField municipality = new TextField();
-        municipality.setLabel("Municipio");
-        TextField state = new TextField();
-        state.setLabel("Estado");
-        adress_content.add(street, n_exterior, n_interior, suburb, postal_code, municipality, state);
-
-        // *------------------------------------------------------------------*/
         // * Comment
         // *------------------------------------------------------------------*/
 
         HorizontalLayout ailments_content = new HorizontalLayout();
-        CheckboxGroup<String> ailments = new CheckboxGroup<>();
-        ailments.setLabel("Padecimientos");
-        ailments.setItems("Diabetes", "Hipertensión");
-        ailments_content.add(ailments);
+        CheckboxGroup<String> _ailments = new CheckboxGroup<>();
+        _ailments.setLabel("Padecimientos");
+        _ailments.setItems("Diabetes", "Hipertensión");
+        Checkbox diabetes = new Checkbox();
+        diabetes.setLabel("Diabetes");
+        diabetes.getValue();
+        ailments_content.add(_ailments);
 
         Button send = new Button("Add");
 
-        row.add(record_content, user_content, email_content, adress_content, ailments_content, send);
+        row.add(record_form, user_form, email_content, adress_form, ailments_content, send);
         add(row);
-        send.addClickListener(click -> {
-            Record record = new Record();
-            record.setBrand(brand.getValue());
-            record.setBatch(batch.getValue());
-            record.setDate(date.getValue());
 
-            // System.out.println(record.getBrand());
+        record_form.binder.addStatusChangeListener(status -> {
+            send.setEnabled(record_form.isValid());
+        });
+
+        send.setEnabled(false);
+        send.addClickListener(click -> {
+            if (record_form.isValid() && user_form.isValid()) {
+                List<Record> records = new ArrayList<>();
+                Record record = new Record();
+                record_form.read(record);
+                records.add(record);
+
+                User user = new User();
+                user_form.read(user);
+
+                Adress adress = new Adress();
+                adress_form.read(adress);
+                // logger.info(record.getBrand());
+                Set<String> ails = _ailments.getValue();
+                Ailments ailments = new Ailments();
+                ailments.setDiabetes(ails.contains("Diabetes"));
+                ailments.setHypertension(ails.contains("Hipertensión"));
+
+                Expediente expediente = new Expediente(user, adress, records, ailments);
+                expediente.setEmail(email.getValue());
+                expedientes.add(expediente);
+            }
+            ;
         });
     }
 }

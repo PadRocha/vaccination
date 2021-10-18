@@ -2,8 +2,12 @@ package com.example.demo;
 
 import java.io.Serializable;
 
+import javax.validation.constraints.NotNull;
+
 public class Ailments implements Serializable {
+    @NotNull
     private boolean diabetes;
+    @NotNull
     private boolean hypertension;
 
     @Override
