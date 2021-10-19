@@ -11,6 +11,8 @@ import com.vaadin.flow.component.orderedlayout.FlexLayout;
 import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.component.textfield.TextField;
+import com.vaadin.flow.component.grid.Grid;
+import com.vaadin.flow.component.html.Hr;
 import com.vaadin.flow.router.Route;
 
 import org.slf4j.Logger;
@@ -21,6 +23,7 @@ public class MainView extends FlexLayout {
     VerticalLayout row = new VerticalLayout();
     Logger logger = LoggerFactory.getLogger(MainView.class);
     List<Expediente> expedientes = new ArrayList<>();
+    Grid<Expediente> grid = new Grid<>(Expediente.class);
 
     public MainView() {
         RecordForm record_form = new RecordForm();
@@ -53,7 +56,8 @@ public class MainView extends FlexLayout {
 
         Button send = new Button("Add");
 
-        row.add(record_form, user_form, email_content, adress_form, ailments_content, send);
+        row.add(record_form, user_form, email_content, adress_form, ailments_content);
+        row.add(send, new Hr());
         add(row);
 
         // *------------------------------------------------------------------*/
@@ -98,7 +102,25 @@ public class MainView extends FlexLayout {
                 Expediente expediente = new Expediente(user, adress, records, ailments);
                 expediente.setEmail(email.getValue());
                 expedientes.add(expediente);
+
+                grid.setItems(expedientes);
             }
         });
+
+        grid.removeAllColumns();
+        grid.addColumn(expediente -> {
+            User user = expediente.getUser();
+            return user.getName() + " " + user.getSurname() + " " + user.getSecond_surname();
+        }).setHeader("Usuario");
+        grid.addColumn(Expediente::getEmail).setHeader("Email");
+        grid.addColumn(expediente -> {
+            Adress adress = expediente.getAdress();
+            return adress.getStreet() + " " + adress.getN_exterior() + " " + adress.getN_interior() + " "
+                    + adress.getSuburb() + " " + adress.getPostal_code() + " " + adress.getMunicipality() + " "
+                    + adress.getState();
+        }).setHeader("Dirección");
+        row.add(grid);
+
+        getStyle().set("padding", "0 5rem");
     }
 }

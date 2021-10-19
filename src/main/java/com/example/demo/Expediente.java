@@ -59,8 +59,24 @@ public class Expediente implements Serializable {
         return text;
     }
 
-    public String getUser() {
-        return user.getName() + " " + user.getSurname() + " " + user.getSecond_surname();
+    public User getUser() {
+        return user;
+    }
+
+    public Adress getAdress() {
+        return adress;
+    }
+
+    public Ailments getAilments() {
+        return ailments;
+    }
+
+    public List<Record> getRecords() {
+        return records;
+    }
+
+    public String getEmail() {
+        return email;
     }
 
     @Override

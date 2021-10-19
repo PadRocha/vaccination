@@ -53,7 +53,7 @@
     "@vaadin/vaadin-upload": "21.0.2",
     "@vaadin/vaadin-virtual-list": "21.0.2",
     "construct-style-sheets-polyfill": "2.4.16",
-    "lit": "2.0.0-rc.3"
+    "lit": "2.0.0"
   },
   "devDependencies": {
     "@types/validator": "13.1.0",
@@ -135,7 +135,7 @@
       "@vaadin/vaadin-upload": "21.0.2",
       "@vaadin/vaadin-virtual-list": "21.0.2",
       "construct-style-sheets-polyfill": "2.4.16",
-      "lit": "2.0.0-rc.3"
+      "lit": "2.0.0"
     },
     "devDependencies": {
       "@types/validator": "13.1.0",
@@ -162,6 +162,6 @@
       "workbox-precaching": "6.2.0",
       "workbox-webpack-plugin": "6.2.0"
     },
-    "hash": "8cbc508069bda8a799ddf0d05fda7f6832a6d20c4961d4d4acdb6a846011595c"
+    "hash": "56229aebb166de4bf206d40644d7233fa55766734721be9107e0fbd0402156f8"
   }
 }
