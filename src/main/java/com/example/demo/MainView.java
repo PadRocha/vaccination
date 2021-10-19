@@ -6,6 +6,8 @@ import java.util.Set;
 import java.util.stream.Collectors;
 import java.lang.reflect.Type;
 import java.time.LocalDate;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 
 import com.google.gson.reflect.TypeToken;
 import com.google.gson.Gson;
@@ -27,8 +29,6 @@ import com.vaadin.flow.data.value.ValueChangeMode;
 import com.vaadin.flow.component.grid.Grid;
 import com.vaadin.flow.component.html.Hr;
 import com.vaadin.flow.router.Route;
-
-import java.io.FileReader;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -97,8 +97,6 @@ public class MainView extends FlexLayout {
         send.setEnabled(false);
         send.addClickListener(click -> {
             if (record_form.isValid() && user_form.isValid() && adress_form.isValid() && !email.isEmpty()) {
-
-                // logger.info()
                 List<Record> records = new ArrayList<>();
                 Record record = new Record();
                 record_form.read(record);
@@ -235,6 +233,8 @@ public class MainView extends FlexLayout {
             logger.info(e.getMessage());
         } catch (JsonParseException e) {
             logger.info("Parse");
+        } catch (FileNotFoundException e) {
+            logger.info("Not Found it");
         } catch (Exception e) {
             logger.info(e.getMessage());
         } finally {
