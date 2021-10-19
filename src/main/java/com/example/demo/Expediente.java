@@ -25,7 +25,7 @@ public class Expediente implements Serializable {
 
     @Override
     public String toString() {
-        String text = "Expediente {\n";
+        String text = "Expediente: {\n";
         text += "\tUsuario: {\n";
         text += "\t\t" + "nombre: " + user.getName() + ",\n";
         text += "\t\t" + "apellido: " + user.getSurname() + ",\n";
@@ -136,7 +136,7 @@ public class Expediente implements Serializable {
         this.records = records;
     }
 
-    public void addRecords(Record record) {
+    public void addRecord(Record record) {
         this.records.add(record);
     }
 }

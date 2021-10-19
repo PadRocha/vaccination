@@ -59,4 +59,8 @@ public class AdressForm extends HorizontalLayout {
     public boolean isValid() {
         return binder.isValid();
     }
+
+    public void clear() {
+        binder.getFields().forEach(field -> field.clear());
+    }
 }

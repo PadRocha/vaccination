@@ -38,11 +38,7 @@ public class RecordForm extends HorizontalLayout {
     }
 
     public void disable() {
-        date.setReadOnly(true);
-        binder.setReadOnly(true);
-        brand.setReadOnly(true);
-        batch.setReadOnly(true);
-        dose.setReadOnly(true);
+        binder.getFields().forEach(field -> field.setReadOnly(true));
     }
 
     public Binder<Record> getBinder() {
@@ -65,5 +61,9 @@ public class RecordForm extends HorizontalLayout {
 
     public boolean isValid() {
         return binder.isValid();
+    }
+
+    public void clear() {
+        binder.getFields().forEach(field -> field.clear());
     }
 }

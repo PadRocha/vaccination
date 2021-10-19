@@ -25,9 +25,9 @@ import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.component.dialog.Dialog;
 import com.vaadin.flow.component.textfield.TextField;
-import com.vaadin.flow.data.value.ValueChangeMode;
 import com.vaadin.flow.component.grid.Grid;
 import com.vaadin.flow.component.html.Hr;
+import com.vaadin.flow.data.value.ValueChangeMode;
 import com.vaadin.flow.router.Route;
 
 import org.slf4j.Logger;
@@ -101,21 +101,26 @@ public class MainView extends FlexLayout {
                 Record record = new Record();
                 record_form.read(record);
                 records.add(record);
+                record_form.clear();
 
                 User user = new User();
                 user_form.read(user);
+                user_form.clear();
 
                 Adress adress = new Adress();
                 adress_form.read(adress);
+                adress_form.clear();
 
                 Set<String> ails = _ailments.getValue();
                 Ailments ailments = new Ailments();
                 ailments.setDiabetes(ails.contains("Diabetes"));
                 ailments.setHypertension(ails.contains("Hipertensión"));
+                _ailments.clear();
 
                 Expediente expediente = new Expediente(user, adress, records, ailments);
                 expediente.setEmail(email.getValue());
                 expedientes.add(expediente);
+                email.clear();
 
                 filter.clear();
                 grid.setItems(expedientes);
@@ -199,7 +204,7 @@ public class MainView extends FlexLayout {
                             Record _record = new Record();
                             form.read(_record);
                             form.disable();
-                            expediente.addRecords(_record);
+                            expediente.addRecord(_record);
                         } else {
                             update.getStyle().set("display", "block");
                         }
@@ -224,9 +229,8 @@ public class MainView extends FlexLayout {
         try {
             Type listType = new TypeToken<ArrayList<Expediente>>() {
             }.getType();
-            List<Expediente> json = gson.fromJson(new FileReader(
-                    "D:\\proch\\Desktop\\GIT\\Java\\spring\\demo\\src\\main\\java\\com\\example\\demo\\expedientes.json"),
-                    listType);
+            String path = "D:\\proch\\Desktop\\GIT\\Java\\spring\\demo\\src\\main\\java\\com\\example\\demo\\expedientes.json";
+            List<Expediente> json = gson.fromJson(new FileReader(path), listType);
             expedientes.addAll(json);
         } catch (JsonSyntaxException e) {
             logger.info("Syntax");
