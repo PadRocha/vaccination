@@ -14,7 +14,7 @@ public class Expediente implements Serializable {
     private Ailments ailments;
     @Email
     @NotNull
-    String email;
+    private String email;
 
     public Expediente(User user, Adress adress, List<Record> records, Ailments ailments) {
         this.user = user;
@@ -130,5 +130,13 @@ public class Expediente implements Serializable {
 
     public void setEmail(String email) {
         this.email = email;
+    }
+
+    public void setRecords(List<Record> records) {
+        this.records = records;
+    }
+
+    public void addRecords(Record record) {
+        this.records.add(record);
     }
 }

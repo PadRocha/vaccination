@@ -67,11 +67,7 @@ public class Adress implements Serializable {
     @NotNull
     @NotEmpty
     private String street;
-    @NotNull
-    @NotEmpty
     private String n_exterior;
-    @NotNull
-    @NotEmpty
     private String n_interior;
     @NotNull
     @NotEmpty
@@ -119,11 +115,11 @@ public class Adress implements Serializable {
     }
 
     public String getN_exterior() {
-        return n_exterior;
+        return n_exterior != null ? n_exterior : "n/a";
     }
 
     public String getN_interior() {
-        return n_interior;
+        return n_interior != null ? n_interior : "n/a";
     }
 
     public int getPostal_code() {

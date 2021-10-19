@@ -1,0 +1,6503 @@
+[
+    {
+        "email": "Flavie20@hotmail.com",
+        "user": {
+            "name": "Cleta",
+            "surname": "Zboncak",
+            "second_surname": "Haag"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 30525,
+                "date": "2021-05-18",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Paucek Hill",
+            "suburb": "amet esse incididunt dolor cupidatat",
+            "postal_code": 34071,
+            "municipality": "D'Amoreport",
+            "state": "Alaska",
+            "n_interior": "71867",
+            "n_exterior": "22129"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Athena_Jacobson57@hotmail.com",
+        "user": {
+            "name": "Cecelia",
+            "surname": "Turner",
+            "second_surname": "Lang"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 37879,
+                "date": "2020-12-06",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Agustina Plains",
+            "suburb": "reprehenderit eu incididunt adipisicing minim",
+            "postal_code": 92692,
+            "municipality": "Ozellaborough",
+            "state": "Louisiana",
+            "n_exterior": "29179",
+            "n_interior": "11235"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Prudence.Welch19@yahoo.com",
+        "user": {
+            "name": "Elissa",
+            "surname": "Quigley",
+            "second_surname": "Collins"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 98639,
+                "date": "2021-05-28",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Davis Mountains",
+            "suburb": "reprehenderit incididunt consectetur fugiat sint",
+            "postal_code": 49667,
+            "municipality": "South Jacinto",
+            "state": "Colorado",
+            "n_interior": "15573",
+            "n_exterior": "92291"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Viva_Dibbert@hotmail.com",
+        "user": {
+            "name": "Nyasia",
+            "surname": "Ritchie",
+            "second_surname": "Gusikowski"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 13724,
+                "date": "2021-07-29",
+                "dose": "Única"
+            },
+            {
+                "brand": "CoronaVac",
+                "batch": 72499,
+                "date": "2021-05-22",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Bogisich Trail",
+            "suburb": "culpa est aute",
+            "postal_code": 92920,
+            "municipality": "Ervinview",
+            "state": "South Dakota",
+            "n_exterior": "78505",
+            "n_interior": "541"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Kelly.Konopelski96@gmail.com",
+        "user": {
+            "name": "Karson",
+            "surname": "Schmeler",
+            "second_surname": "Parker"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 52042,
+                "date": "2021-04-02",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "Moderna",
+                "batch": 18497,
+                "date": "2021-02-19",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Fred Stream",
+            "suburb": "nostrud dolore sint",
+            "postal_code": 48688,
+            "municipality": "Luellaville",
+            "state": "Wyoming",
+            "n_interior": "464",
+            "n_exterior": "12162"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Angus_Parker94@gmail.com",
+        "user": {
+            "name": "Reymundo",
+            "surname": "Hettinger",
+            "second_surname": "Thompson"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 23649,
+                "date": "2021-08-01",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Bernier Expressway",
+            "suburb": "consectetur est labore ut enim",
+            "postal_code": 14416,
+            "municipality": "Lancebury",
+            "state": "Virginia",
+            "n_interior": "82671",
+            "n_exterior": "21718"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Javon.Tillman59@gmail.com",
+        "user": {
+            "name": "Catherine",
+            "surname": "Blanda",
+            "second_surname": "Bruen"
+        },
+        "records": [
+            {
+                "brand": "CanSino",
+                "batch": 57389,
+                "date": "2020-10-26",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Hilll Unions",
+            "suburb": "qui ea",
+            "postal_code": 54410,
+            "municipality": "East Margot",
+            "state": "Alabama",
+            "n_interior": "44906",
+            "n_exterior": "88465"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Aiyana_Kuphal20@gmail.com",
+        "user": {
+            "name": "Elza",
+            "surname": "McLaughlin",
+            "second_surname": "Hansen"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 19755,
+                "date": "2021-07-28",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Dickens Flats",
+            "suburb": "tempor officia incididunt",
+            "postal_code": 42083,
+            "municipality": "Lebsacktown",
+            "state": "Kansas",
+            "n_interior": "55374",
+            "n_exterior": "40417"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Kole_Kessler79@yahoo.com",
+        "user": {
+            "name": "Rahsaan",
+            "surname": "O'Hara",
+            "second_surname": "Gusikowski"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 8216,
+                "date": "2021-01-26",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 54239,
+                "date": "2020-12-13",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Jensen Mountains",
+            "suburb": "nisi",
+            "postal_code": 97633,
+            "municipality": "West Cristianborough",
+            "state": "Vermont",
+            "n_exterior": "24687"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Krystina_Kilback@yahoo.com",
+        "user": {
+            "name": "Stone",
+            "surname": "Hilpert",
+            "second_surname": "Barton"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 20636,
+                "date": "2021-03-17",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "CoronaVac",
+                "batch": 11873,
+                "date": "2021-01-14",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Reinger Harbors",
+            "suburb": "sunt proident ipsum sit",
+            "postal_code": 85331,
+            "municipality": "Krisborough",
+            "state": "Minnesota",
+            "n_interior": "62871",
+            "n_exterior": "33543"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Monique.Cummings@gmail.com",
+        "user": {
+            "name": "Evert",
+            "surname": "Padberg",
+            "second_surname": "Rohan"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 58200,
+                "date": "2020-12-24",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Gudrun Keys",
+            "suburb": "sint id dolore esse cillum",
+            "postal_code": 33249,
+            "municipality": "Danielland",
+            "state": "New York",
+            "n_exterior": "23514",
+            "n_interior": "55824"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Jasper56@yahoo.com",
+        "user": {
+            "name": "Buck",
+            "surname": "Kihn",
+            "second_surname": "Ward"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 45316,
+                "date": "2021-08-28",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "O'Kon Centers",
+            "suburb": "pariatur ad in",
+            "postal_code": 87855,
+            "municipality": "Vadaburgh",
+            "state": "New Hampshire",
+            "n_exterior": "28040",
+            "n_interior": "59309"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Sierra.Skiles@hotmail.com",
+        "user": {
+            "name": "Alfonzo",
+            "surname": "Leffler",
+            "second_surname": "Koelpin"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 79291,
+                "date": "2021-08-05",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Lind Junctions",
+            "suburb": "ullamco adipisicing ut qui",
+            "postal_code": 94695,
+            "municipality": "West Tamaramouth",
+            "state": "New Jersey",
+            "n_interior": "13936",
+            "n_exterior": "16118"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Terrell_Greenfelder@gmail.com",
+        "user": {
+            "name": "Keon",
+            "surname": "Zemlak",
+            "second_surname": "Vandervort"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 33191,
+                "date": "2021-03-28",
+                "dose": "Única"
+            },
+            {
+                "brand": "CanSino",
+                "batch": 96997,
+                "date": "2021-05-25",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Price Points",
+            "suburb": "in dolore",
+            "postal_code": 227,
+            "municipality": "West Magdalena",
+            "state": "Alaska",
+            "n_exterior": "33430",
+            "n_interior": "56630"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Eulah_Macejkovic81@hotmail.com",
+        "user": {
+            "name": "Davion",
+            "surname": "Walsh",
+            "second_surname": "Jenkins"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 65104,
+                "date": "2021-06-08",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Rollin Corner",
+            "suburb": "proident",
+            "postal_code": 11913,
+            "municipality": "New Justinemouth",
+            "state": "Oklahoma",
+            "n_interior": "26185",
+            "n_exterior": "89277"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Marguerite_Parisian2@gmail.com",
+        "user": {
+            "name": "June",
+            "surname": "Maggio",
+            "second_surname": "Wisozk"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 83532,
+                "date": "2021-04-09",
+                "dose": "Primera"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 5271,
+                "date": "2021-09-27",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Florence Station",
+            "suburb": "eu amet magna exercitation in",
+            "postal_code": 19117,
+            "municipality": "Roychester",
+            "state": "Indiana",
+            "n_interior": "95362",
+            "n_exterior": "75055"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Pat13@hotmail.com",
+        "user": {
+            "name": "Heaven",
+            "surname": "McCullough",
+            "second_surname": "Jacobson"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 20632,
+                "date": "2021-10-14",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 22962,
+                "date": "2021-07-20",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Randall Forks",
+            "suburb": "sit voluptate quis veniam",
+            "postal_code": 65398,
+            "municipality": "East Naomimouth",
+            "state": "Vermont",
+            "n_interior": "56323",
+            "n_exterior": "27602"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Obie20@yahoo.com",
+        "user": {
+            "name": "Jacklyn",
+            "surname": "Anderson",
+            "second_surname": "Lemke"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 21186,
+                "date": "2021-10-01",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Bashirian Mountains",
+            "suburb": "quis tempor",
+            "postal_code": 37264,
+            "municipality": "Augustborough",
+            "state": "Texas",
+            "n_interior": "43403",
+            "n_exterior": "60619"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Allison_Corwin54@hotmail.com",
+        "user": {
+            "name": "Amos",
+            "surname": "Stoltenberg",
+            "second_surname": "Rosenbaum"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 49880,
+                "date": "2020-11-07",
+                "dose": "Única"
+            },
+            {
+                "brand": "Pfizer",
+                "batch": 55801,
+                "date": "2021-05-04",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Kassulke River",
+            "suburb": "fugiat sed nulla",
+            "postal_code": 77760,
+            "municipality": "Francescabury",
+            "state": "West Virginia",
+            "n_exterior": "40554",
+            "n_interior": "53129"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Nikki.Schiller13@gmail.com",
+        "user": {
+            "name": "Maeve",
+            "surname": "O'Kon",
+            "second_surname": "Ortiz"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 37133,
+                "date": "2021-09-13",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Oda Club",
+            "suburb": "reprehenderit deserunt qui nostrud",
+            "postal_code": 6291,
+            "municipality": "South Skyla",
+            "state": "South Dakota",
+            "n_interior": "91086",
+            "n_exterior": "55056"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Providenci_Buckridge50@hotmail.com",
+        "user": {
+            "name": "Reggie",
+            "surname": "Hessel",
+            "second_surname": "Feil"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 8928,
+                "date": "2021-02-13",
+                "dose": "Única"
+            },
+            {
+                "brand": "Pfizer",
+                "batch": 11506,
+                "date": "2021-06-27",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Leonard Trail",
+            "suburb": "commodo non",
+            "postal_code": 50174,
+            "municipality": "Port Antwonburgh",
+            "state": "Iowa",
+            "n_interior": "32899",
+            "n_exterior": "82839"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Olin10@yahoo.com",
+        "user": {
+            "name": "Reggie",
+            "surname": "Jones",
+            "second_surname": "Keeling"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 86062,
+                "date": "2021-02-12",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "CoronaVac",
+                "batch": 56882,
+                "date": "2021-01-06",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Sofia Crossing",
+            "suburb": "in",
+            "postal_code": 13888,
+            "municipality": "North Jean",
+            "state": "New Hampshire",
+            "n_interior": "16487"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Alexa21@hotmail.com",
+        "user": {
+            "name": "Karlee",
+            "surname": "Wilkinson",
+            "second_surname": "Frami"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 15373,
+                "date": "2020-12-29",
+                "dose": "Primera"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 42934,
+                "date": "2021-02-12",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Prohaska Mill",
+            "suburb": "nulla Excepteur non ad",
+            "postal_code": 21234,
+            "municipality": "Ericfurt",
+            "state": "Rhode Island",
+            "n_interior": "36891"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Shirley.Predovic21@yahoo.com",
+        "user": {
+            "name": "Aidan",
+            "surname": "Aufderhar",
+            "second_surname": "MacGyver"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 52927,
+                "date": "2021-05-28",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Moderna",
+                "batch": 12825,
+                "date": "2020-11-07",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Dickens Ports",
+            "suburb": "consectetur esse",
+            "postal_code": 18574,
+            "municipality": "Garretland",
+            "state": "Colorado",
+            "n_interior": "82089",
+            "n_exterior": "42951"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Elwin83@yahoo.com",
+        "user": {
+            "name": "Blaise",
+            "surname": "Stark",
+            "second_surname": "Kub"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 38983,
+                "date": "2021-01-24",
+                "dose": "Única"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 50897,
+                "date": "2020-11-01",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Kassulke Island",
+            "suburb": "aliquip",
+            "postal_code": 18417,
+            "municipality": "Nehashire",
+            "state": "California",
+            "n_interior": "68446",
+            "n_exterior": "12974"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Cecelia_Wiegand83@gmail.com",
+        "user": {
+            "name": "Harold",
+            "surname": "Pfeffer",
+            "second_surname": "Swift"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 52072,
+                "date": "2021-04-27",
+                "dose": "Primera"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 10033,
+                "date": "2021-10-14",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Bell Squares",
+            "suburb": "sint quis anim",
+            "postal_code": 9121,
+            "municipality": "Shakiramouth",
+            "state": "Alabama",
+            "n_interior": "67771",
+            "n_exterior": "26508"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Catherine68@yahoo.com",
+        "user": {
+            "name": "Eleanore",
+            "surname": "Yundt",
+            "second_surname": "Leuschke"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 27242,
+                "date": "2021-10-03",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "Moderna",
+                "batch": 55505,
+                "date": "2021-07-18",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Mackenzie Motorway",
+            "suburb": "nisi deserunt Excepteur eiusmod dolor",
+            "postal_code": 52338,
+            "municipality": "South Shanefort",
+            "state": "Nebraska",
+            "n_interior": "55534",
+            "n_exterior": "75220"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Abdul.Frami95@hotmail.com",
+        "user": {
+            "name": "Angeline",
+            "surname": "Wehner",
+            "second_surname": "Prosacco"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 7712,
+                "date": "2021-04-27",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "O'Connell Glen",
+            "suburb": "et Duis",
+            "postal_code": 48853,
+            "municipality": "North Ardith",
+            "state": "Arizona",
+            "n_exterior": "3640"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Jeremie_Kessler52@gmail.com",
+        "user": {
+            "name": "Delphia",
+            "surname": "Wunsch",
+            "second_surname": "Steuber"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 91705,
+                "date": "2021-05-11",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Kaylie Key",
+            "suburb": "eu officia",
+            "postal_code": 5694,
+            "municipality": "Elvisshire",
+            "state": "Virginia",
+            "n_interior": "17450",
+            "n_exterior": "55770"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Leonard_Muller6@yahoo.com",
+        "user": {
+            "name": "Cedrick",
+            "surname": "Osinski",
+            "second_surname": "Schroeder"
+        },
+        "records": [
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 2327,
+                "date": "2021-03-08",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "Moderna",
+                "batch": 79130,
+                "date": "2021-05-15",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "McGlynn Curve",
+            "suburb": "cillum",
+            "postal_code": 25094,
+            "municipality": "Willtown",
+            "state": "Washington",
+            "n_exterior": "36203",
+            "n_interior": "25374"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Eldon.Gibson56@hotmail.com",
+        "user": {
+            "name": "Roxanne",
+            "surname": "Pagac",
+            "second_surname": "Roob"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 27081,
+                "date": "2021-01-10",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Darrel Causeway",
+            "suburb": "consectetur deserunt",
+            "postal_code": 21560,
+            "municipality": "West Hortense",
+            "state": "Florida",
+            "n_exterior": "32153",
+            "n_interior": "65881"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Antwan89@hotmail.com",
+        "user": {
+            "name": "Fay",
+            "surname": "Farrell",
+            "second_surname": "Reynolds"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 9443,
+                "date": "2021-03-08",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 99791,
+                "date": "2021-04-04",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Hayes Stravenue",
+            "suburb": "nostrud ea consectetur",
+            "postal_code": 91045,
+            "municipality": "New Draketown",
+            "state": "Louisiana",
+            "n_interior": "67158",
+            "n_exterior": "1768"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Florian80@hotmail.com",
+        "user": {
+            "name": "Vincenza",
+            "surname": "Dach",
+            "second_surname": "Stroman"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 78077,
+                "date": "2021-05-12",
+                "dose": "Única"
+            },
+            {
+                "brand": "Moderna",
+                "batch": 53621,
+                "date": "2021-02-18",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Shanahan Fork",
+            "suburb": "laborum in dolor cupidatat",
+            "postal_code": 36469,
+            "municipality": "Edwinside",
+            "state": "New Mexico",
+            "n_exterior": "66357"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Deshaun.Jerde35@yahoo.com",
+        "user": {
+            "name": "Luisa",
+            "surname": "Baumbach",
+            "second_surname": "Boyle"
+        },
+        "records": [
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 39093,
+                "date": "2021-03-10",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Krystal Run",
+            "suburb": "in ut",
+            "postal_code": 80660,
+            "municipality": "West Zane",
+            "state": "North Dakota",
+            "n_exterior": "43409",
+            "n_interior": "47126"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Rick_Bartell@yahoo.com",
+        "user": {
+            "name": "Alphonso",
+            "surname": "Deckow",
+            "second_surname": "Sporer"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 21241,
+                "date": "2021-09-08",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Tressa Flats",
+            "suburb": "ipsum Excepteur consequat",
+            "postal_code": 26276,
+            "municipality": "New Frederiqueshire",
+            "state": "Wisconsin",
+            "n_interior": "31520",
+            "n_exterior": "5337"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Bernadine.Adams9@gmail.com",
+        "user": {
+            "name": "Sammy",
+            "surname": "Veum",
+            "second_surname": "Koepp"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 96998,
+                "date": "2020-12-31",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Emerson Plaza",
+            "suburb": "voluptate ut fugiat",
+            "postal_code": 10060,
+            "municipality": "South Rebamouth",
+            "state": "Kentucky",
+            "n_interior": "56724",
+            "n_exterior": "87652"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Zora.Daugherty@hotmail.com",
+        "user": {
+            "name": "Casimir",
+            "surname": "Hansen",
+            "second_surname": "Bayer"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 95159,
+                "date": "2020-11-23",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Sputnik V",
+                "batch": 29390,
+                "date": "2020-10-30",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Friesen Drives",
+            "suburb": "dolor est veniam",
+            "postal_code": 74283,
+            "municipality": "East Rowlandfort",
+            "state": "Delaware",
+            "n_interior": "74895",
+            "n_exterior": "70750"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Enrico94@hotmail.com",
+        "user": {
+            "name": "Zachary",
+            "surname": "Lehner",
+            "second_surname": "Dooley"
+        },
+        "records": [
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 58601,
+                "date": "2021-10-12",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Reymundo Groves",
+            "suburb": "cillum reprehenderit eiusmod occaecat non",
+            "postal_code": 84491,
+            "municipality": "West Deangelo",
+            "state": "Delaware",
+            "n_exterior": "74090",
+            "n_interior": "61890"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Garrick1@yahoo.com",
+        "user": {
+            "name": "Rowena",
+            "surname": "Hayes",
+            "second_surname": "O'Connell"
+        },
+        "records": [
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 97316,
+                "date": "2021-08-01",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Nathaniel Station",
+            "suburb": "laborum consectetur elit Lorem",
+            "postal_code": 94142,
+            "municipality": "West Ledaborough",
+            "state": "Tennessee"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Ayla.Langworth83@yahoo.com",
+        "user": {
+            "name": "Karen",
+            "surname": "Tremblay",
+            "second_surname": "Hermiston"
+        },
+        "records": [
+            {
+                "brand": "CanSino",
+                "batch": 3729,
+                "date": "2021-07-06",
+                "dose": "Primera"
+            },
+            {
+                "brand": "CanSino",
+                "batch": 22682,
+                "date": "2021-06-25",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Santa Station",
+            "suburb": "tempor Ut et aute",
+            "postal_code": 14640,
+            "municipality": "North Meggie",
+            "state": "Wisconsin",
+            "n_exterior": "47237",
+            "n_interior": "87464"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Baylee35@hotmail.com",
+        "user": {
+            "name": "Eric",
+            "surname": "Satterfield",
+            "second_surname": "Durgan"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 10545,
+                "date": "2021-08-24",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Gunner Islands",
+            "suburb": "elit quis",
+            "postal_code": 78196,
+            "municipality": "Haskellport",
+            "state": "Mississippi",
+            "n_exterior": "75977",
+            "n_interior": "840"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Freeda.Swaniawski70@hotmail.com",
+        "user": {
+            "name": "Clay",
+            "surname": "Swaniawski",
+            "second_surname": "Hudson"
+        },
+        "records": [
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 94254,
+                "date": "2021-06-14",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Covaxin",
+                "batch": 84000,
+                "date": "2020-11-01",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Jaleel Fall",
+            "suburb": "enim ea",
+            "postal_code": 63363,
+            "municipality": "Shawnview",
+            "state": "New Hampshire",
+            "n_interior": "36732",
+            "n_exterior": "30223"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Justen.Ritchie97@gmail.com",
+        "user": {
+            "name": "Donnell",
+            "surname": "Murazik",
+            "second_surname": "Leuschke"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 92266,
+                "date": "2021-09-04",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Hartmann Land",
+            "suburb": "aliqua aliquip magna ut",
+            "postal_code": 30070,
+            "municipality": "North Patricia",
+            "state": "Michigan"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Beryl.Leffler70@gmail.com",
+        "user": {
+            "name": "Albert",
+            "surname": "Daniel",
+            "second_surname": "Dibbert"
+        },
+        "records": [
+            {
+                "brand": "CanSino",
+                "batch": 410,
+                "date": "2021-09-13",
+                "dose": "Única"
+            },
+            {
+                "brand": "Covaxin",
+                "batch": 32254,
+                "date": "2021-07-26",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Anderson Passage",
+            "suburb": "incididunt enim labore exercitation",
+            "postal_code": 88153,
+            "municipality": "Hilpertberg",
+            "state": "West Virginia",
+            "n_exterior": "9121",
+            "n_interior": "54886"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Retha67@hotmail.com",
+        "user": {
+            "name": "Alessandra",
+            "surname": "Ferry",
+            "second_surname": "VonRueden"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 67402,
+                "date": "2021-06-20",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Goyette Tunnel",
+            "suburb": "adipisicing",
+            "postal_code": 15782,
+            "municipality": "South Catharinestad",
+            "state": "South Carolina",
+            "n_interior": "56615",
+            "n_exterior": "60008"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Mose7@yahoo.com",
+        "user": {
+            "name": "George",
+            "surname": "Dare",
+            "second_surname": "Okuneva"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 58411,
+                "date": "2021-03-21",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Kassulke Track",
+            "suburb": "ullamco incididunt",
+            "postal_code": 54569,
+            "municipality": "Eldredshire",
+            "state": "Iowa",
+            "n_exterior": "66822",
+            "n_interior": "13421"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Lenny_Baumbach63@hotmail.com",
+        "user": {
+            "name": "Erik",
+            "surname": "McLaughlin",
+            "second_surname": "Walsh"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 2219,
+                "date": "2021-03-02",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "MacGyver Vista",
+            "suburb": "cillum",
+            "postal_code": 17141,
+            "municipality": "Port Carolyn",
+            "state": "New Mexico",
+            "n_interior": "23955",
+            "n_exterior": "58795"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Kristy.Swaniawski33@yahoo.com",
+        "user": {
+            "name": "Reba",
+            "surname": "Mitchell",
+            "second_surname": "Schulist"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 94138,
+                "date": "2021-08-12",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Skye Forge",
+            "suburb": "occaecat",
+            "postal_code": 63405,
+            "municipality": "Rogerburgh",
+            "state": "Massachusetts"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Lionel_Mayert88@gmail.com",
+        "user": {
+            "name": "Ashlynn",
+            "surname": "Cormier",
+            "second_surname": "Russel"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 24174,
+                "date": "2020-12-30",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Schaefer Terrace",
+            "suburb": "est dolor anim pariatur",
+            "postal_code": 94508,
+            "municipality": "Felixtown",
+            "state": "Rhode Island",
+            "n_interior": "42033",
+            "n_exterior": "43268"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Ernesto14@gmail.com",
+        "user": {
+            "name": "Art",
+            "surname": "Bradtke",
+            "second_surname": "Bednar"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 48700,
+                "date": "2021-02-01",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Lucinda Ports",
+            "suburb": "Lorem aliquip",
+            "postal_code": 81560,
+            "municipality": "Friesenchester",
+            "state": "North Dakota",
+            "n_exterior": "46681",
+            "n_interior": "6956"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Joanne.Renner84@gmail.com",
+        "user": {
+            "name": "Maximillia",
+            "surname": "Wisozk",
+            "second_surname": "Osinski"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 57479,
+                "date": "2021-01-16",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Hilbert Lodge",
+            "suburb": "irure",
+            "postal_code": 38156,
+            "municipality": "East Pierce",
+            "state": "Hawaii",
+            "n_interior": "38498",
+            "n_exterior": "76219"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Elliott35@yahoo.com",
+        "user": {
+            "name": "Travon",
+            "surname": "Kihn",
+            "second_surname": "Witting"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 45286,
+                "date": "2021-01-17",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Moen Meadow",
+            "suburb": "ea fugiat dolor",
+            "postal_code": 6660,
+            "municipality": "Ortizland",
+            "state": "Mississippi",
+            "n_exterior": "75635",
+            "n_interior": "38841"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Elsa.Mayert68@hotmail.com",
+        "user": {
+            "name": "Bettye",
+            "surname": "Rogahn",
+            "second_surname": "Bednar"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 63400,
+                "date": "2021-03-26",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Anissa Square",
+            "suburb": "anim dolor aliqua",
+            "postal_code": 46485,
+            "municipality": "Port Moriah",
+            "state": "New York",
+            "n_interior": "3989",
+            "n_exterior": "82441"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Jackeline.Gutkowski@gmail.com",
+        "user": {
+            "name": "Andres",
+            "surname": "Doyle",
+            "second_surname": "Rau"
+        },
+        "records": [
+            {
+                "brand": "CanSino",
+                "batch": 44570,
+                "date": "2021-04-07",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "Covaxin",
+                "batch": 93739,
+                "date": "2021-01-23",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Denesik Shoals",
+            "suburb": "do cupidatat mollit",
+            "postal_code": 14390,
+            "municipality": "New Kayley",
+            "state": "New Mexico",
+            "n_interior": "61254",
+            "n_exterior": "27844"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Keyshawn51@gmail.com",
+        "user": {
+            "name": "Gregg",
+            "surname": "Lang",
+            "second_surname": "Pouros"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 69774,
+                "date": "2021-06-20",
+                "dose": "Única"
+            },
+            {
+                "brand": "Covaxin",
+                "batch": 40570,
+                "date": "2020-11-19",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Malinda Trail",
+            "suburb": "commodo",
+            "postal_code": 24140,
+            "municipality": "East Emmanuelle",
+            "state": "Michigan",
+            "n_exterior": "50718",
+            "n_interior": "95298"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Joey_MacGyver75@yahoo.com",
+        "user": {
+            "name": "Angeline",
+            "surname": "Johnson",
+            "second_surname": "Runolfsdottir"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 24855,
+                "date": "2021-02-14",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Jacobs Shoals",
+            "suburb": "sint eiusmod",
+            "postal_code": 16538,
+            "municipality": "West Shyannland",
+            "state": "Tennessee",
+            "n_exterior": "39465",
+            "n_interior": "75998"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Waldo27@yahoo.com",
+        "user": {
+            "name": "Fidel",
+            "surname": "Prohaska",
+            "second_surname": "Murray"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 99465,
+                "date": "2020-12-16",
+                "dose": "Única"
+            },
+            {
+                "brand": "Moderna",
+                "batch": 81928,
+                "date": "2020-11-18",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Wolf Ridges",
+            "suburb": "ut eiusmod nisi tempor",
+            "postal_code": 16690,
+            "municipality": "Port Maida",
+            "state": "Utah",
+            "n_exterior": "16509",
+            "n_interior": "51996"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Quincy.Anderson10@hotmail.com",
+        "user": {
+            "name": "Louvenia",
+            "surname": "Fritsch",
+            "second_surname": "Schinner"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 98706,
+                "date": "2021-04-10",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "Moderna",
+                "batch": 87770,
+                "date": "2021-02-08",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Jarret Divide",
+            "suburb": "ut eiusmod",
+            "postal_code": 13504,
+            "municipality": "Jakubowskiport",
+            "state": "New York"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Margot.Beer21@gmail.com",
+        "user": {
+            "name": "Una",
+            "surname": "Bashirian",
+            "second_surname": "Jaskolski"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 55056,
+                "date": "2021-07-19",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "CanSino",
+                "batch": 86128,
+                "date": "2020-11-08",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Rosenbaum Isle",
+            "suburb": "dolor",
+            "postal_code": 21619,
+            "municipality": "Zemlakbury",
+            "state": "New Mexico",
+            "n_exterior": "79437",
+            "n_interior": "8650"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Constantin44@yahoo.com",
+        "user": {
+            "name": "Ila",
+            "surname": "Auer",
+            "second_surname": "Jenkins"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 34804,
+                "date": "2021-08-20",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Howell Avenue",
+            "suburb": "do aute mollit in",
+            "postal_code": 2542,
+            "municipality": "Predovicberg",
+            "state": "Delaware",
+            "n_exterior": "42692",
+            "n_interior": "2804"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Carlie.Welch51@gmail.com",
+        "user": {
+            "name": "Daija",
+            "surname": "McKenzie",
+            "second_surname": "Mraz"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 2319,
+                "date": "2021-08-11",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Schneider Land",
+            "suburb": "labore mollit enim ut aute",
+            "postal_code": 7903,
+            "municipality": "North Myahfort",
+            "state": "South Carolina",
+            "n_interior": "90268",
+            "n_exterior": "97015"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Citlalli55@hotmail.com",
+        "user": {
+            "name": "Mauricio",
+            "surname": "Gulgowski",
+            "second_surname": "Kunde"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 42176,
+                "date": "2021-01-01",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Pfizer",
+                "batch": 15470,
+                "date": "2021-04-24",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "DuBuque Bridge",
+            "suburb": "eiusmod non laborum Lorem ullamco",
+            "postal_code": 89058,
+            "municipality": "New Laurence",
+            "state": "Hawaii",
+            "n_exterior": "72064",
+            "n_interior": "41770"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Giuseppe82@hotmail.com",
+        "user": {
+            "name": "Delia",
+            "surname": "Friesen",
+            "second_surname": "Hegmann"
+        },
+        "records": [
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 75348,
+                "date": "2021-03-11",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Michele Pine",
+            "suburb": "Ut tempor",
+            "postal_code": 22610,
+            "municipality": "East Tyrique",
+            "state": "Delaware",
+            "n_exterior": "60614",
+            "n_interior": "58313"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Marcelo89@hotmail.com",
+        "user": {
+            "name": "Lizzie",
+            "surname": "Hessel",
+            "second_surname": "Bosco"
+        },
+        "records": [
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 95799,
+                "date": "2021-01-19",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Sonny Junction",
+            "suburb": "occaecat consectetur ex sed pariatur",
+            "postal_code": 79095,
+            "municipality": "Port Erynville",
+            "state": "Washington",
+            "n_interior": "72502",
+            "n_exterior": "51116"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Jana.Schamberger22@yahoo.com",
+        "user": {
+            "name": "Stanford",
+            "surname": "Langosh",
+            "second_surname": "Cronin"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 60495,
+                "date": "2021-08-27",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Hills Row",
+            "suburb": "ut cupidatat",
+            "postal_code": 6889,
+            "municipality": "Hermannton",
+            "state": "New York",
+            "n_exterior": "7582",
+            "n_interior": "10038"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Roselyn_Gibson73@yahoo.com",
+        "user": {
+            "name": "Milton",
+            "surname": "Jakubowski",
+            "second_surname": "Swaniawski"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 87105,
+                "date": "2021-03-06",
+                "dose": "Única"
+            },
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 542,
+                "date": "2020-12-18",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Labadie Summit",
+            "suburb": "sit mollit consectetur",
+            "postal_code": 56662,
+            "municipality": "Freemanburgh",
+            "state": "California",
+            "n_exterior": "17097"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Paris91@yahoo.com",
+        "user": {
+            "name": "Cole",
+            "surname": "Braun",
+            "second_surname": "Block"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 10844,
+                "date": "2020-11-24",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Fritsch Lake",
+            "suburb": "laboris ullamco",
+            "postal_code": 28863,
+            "municipality": "Caliport",
+            "state": "Nevada"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Francesca3@yahoo.com",
+        "user": {
+            "name": "Dangelo",
+            "surname": "Langosh",
+            "second_surname": "Kunde"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 73944,
+                "date": "2020-11-11",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Garnet Prairie",
+            "suburb": "occaecat Lorem qui",
+            "postal_code": 86664,
+            "municipality": "Port Merlin",
+            "state": "Louisiana",
+            "n_exterior": "40464",
+            "n_interior": "28321"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Marjory.Weissnat61@hotmail.com",
+        "user": {
+            "name": "Michelle",
+            "surname": "Kunde",
+            "second_surname": "Morar"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 94136,
+                "date": "2020-11-27",
+                "dose": "Única"
+            },
+            {
+                "brand": "Moderna",
+                "batch": 80287,
+                "date": "2020-12-02",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Buckridge Junctions",
+            "suburb": "aliqua dolor",
+            "postal_code": 85231,
+            "municipality": "Elianmouth",
+            "state": "Iowa",
+            "n_exterior": "85647",
+            "n_interior": "55342"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Cathryn78@gmail.com",
+        "user": {
+            "name": "Eliane",
+            "surname": "Ruecker",
+            "second_surname": "Gulgowski"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 31677,
+                "date": "2021-08-21",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 70026,
+                "date": "2021-07-01",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Elyse Greens",
+            "suburb": "dolor sit non mollit",
+            "postal_code": 7036,
+            "municipality": "Port Lyla",
+            "state": "Arizona",
+            "n_exterior": "34805",
+            "n_interior": "82290"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Constantin_Olson@gmail.com",
+        "user": {
+            "name": "Jennings",
+            "surname": "Romaguera",
+            "second_surname": "Weissnat"
+        },
+        "records": [
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 47993,
+                "date": "2021-05-04",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Hessel Shores",
+            "suburb": "ea laboris",
+            "postal_code": 48760,
+            "municipality": "Borershire",
+            "state": "Kentucky",
+            "n_interior": "62475",
+            "n_exterior": "32656"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Alycia.Schaden@gmail.com",
+        "user": {
+            "name": "Cassandra",
+            "surname": "Franecki",
+            "second_surname": "Jenkins"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 20753,
+                "date": "2021-02-20",
+                "dose": "Única"
+            },
+            {
+                "brand": "Sputnik V",
+                "batch": 65904,
+                "date": "2021-01-13",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Swift Corner",
+            "suburb": "exercitation proident et",
+            "postal_code": 32783,
+            "municipality": "Evertmouth",
+            "state": "Georgia",
+            "n_exterior": "38280",
+            "n_interior": "73191"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Camylle.Howell@gmail.com",
+        "user": {
+            "name": "Trever",
+            "surname": "Bode",
+            "second_surname": "Mosciski"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 33322,
+                "date": "2021-09-26",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "CoronaVac",
+                "batch": 51773,
+                "date": "2021-03-13",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Zack Spur",
+            "suburb": "ut ut",
+            "postal_code": 7503,
+            "municipality": "East Earline",
+            "state": "Nevada",
+            "n_interior": "4739",
+            "n_exterior": "88755"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Wilburn_Turcotte25@yahoo.com",
+        "user": {
+            "name": "Dallas",
+            "surname": "Kassulke",
+            "second_surname": "Keebler"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 75520,
+                "date": "2020-12-24",
+                "dose": "Única"
+            },
+            {
+                "brand": "CoronaVac",
+                "batch": 94259,
+                "date": "2021-01-08",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Harris Shoals",
+            "suburb": "cupidatat qui in aliqua",
+            "postal_code": 27340,
+            "municipality": "Lake Wainoville",
+            "state": "New York",
+            "n_exterior": "27702"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Dayana_Rolfson@yahoo.com",
+        "user": {
+            "name": "Flossie",
+            "surname": "Ward",
+            "second_surname": "Davis"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 13113,
+                "date": "2020-11-19",
+                "dose": "Única"
+            },
+            {
+                "brand": "Moderna",
+                "batch": 35928,
+                "date": "2021-02-01",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Boehm Junction",
+            "suburb": "et id laborum fugiat ullamco",
+            "postal_code": 90680,
+            "municipality": "Melyssaberg",
+            "state": "Wyoming",
+            "n_exterior": "87858",
+            "n_interior": "36026"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Missouri87@gmail.com",
+        "user": {
+            "name": "Paxton",
+            "surname": "Kuhlman",
+            "second_surname": "Ankunding"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 76932,
+                "date": "2021-04-28",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Bernardo Motorway",
+            "suburb": "ea voluptate elit labore consequat",
+            "postal_code": 26285,
+            "municipality": "Odafort",
+            "state": "Colorado",
+            "n_exterior": "3041"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Hipolito_Abernathy@hotmail.com",
+        "user": {
+            "name": "Lyric",
+            "surname": "Monahan",
+            "second_surname": "Braun"
+        },
+        "records": [
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 13007,
+                "date": "2021-01-01",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Schiller Street",
+            "suburb": "aliquip ullamco",
+            "postal_code": 40303,
+            "municipality": "New Alessandro",
+            "state": "Rhode Island",
+            "n_interior": "83369",
+            "n_exterior": "76770"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Tate.Botsford88@gmail.com",
+        "user": {
+            "name": "Katrine",
+            "surname": "Morar",
+            "second_surname": "Parisian"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 67816,
+                "date": "2021-06-26",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 59910,
+                "date": "2021-01-14",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Jacklyn Ranch",
+            "suburb": "consectetur ut",
+            "postal_code": 54667,
+            "municipality": "Port Eribertoside",
+            "state": "Delaware",
+            "n_exterior": "10396",
+            "n_interior": "54702"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Ashlee.Schultz15@gmail.com",
+        "user": {
+            "name": "Alvina",
+            "surname": "Muller",
+            "second_surname": "Gaylord"
+        },
+        "records": [
+            {
+                "brand": "CanSino",
+                "batch": 82899,
+                "date": "2021-02-18",
+                "dose": "Primera"
+            },
+            {
+                "brand": "CoronaVac",
+                "batch": 34055,
+                "date": "2021-09-28",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Alden Cove",
+            "suburb": "do aute",
+            "postal_code": 40146,
+            "municipality": "New Florinechester",
+            "state": "New Jersey"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Gene88@yahoo.com",
+        "user": {
+            "name": "Chaz",
+            "surname": "Hilpert",
+            "second_surname": "Stehr"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 22107,
+                "date": "2021-08-16",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Howell Spring",
+            "suburb": "veniam",
+            "postal_code": 49930,
+            "municipality": "East Emilie",
+            "state": "Kentucky",
+            "n_interior": "34419",
+            "n_exterior": "74193"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Cielo.Hackett@hotmail.com",
+        "user": {
+            "name": "Lavada",
+            "surname": "Leannon",
+            "second_surname": "Leffler"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 14336,
+                "date": "2021-07-26",
+                "dose": "Única"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 51514,
+                "date": "2021-05-21",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Milo Way",
+            "suburb": "voluptate labore laboris",
+            "postal_code": 14848,
+            "municipality": "Lednerview",
+            "state": "Connecticut",
+            "n_interior": "77991"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Jairo_Reichert@yahoo.com",
+        "user": {
+            "name": "Deborah",
+            "surname": "Paucek",
+            "second_surname": "Kreiger"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 49506,
+                "date": "2021-01-31",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Delilah Pike",
+            "suburb": "Duis pariatur sint reprehenderit dolor",
+            "postal_code": 42486,
+            "municipality": "Maeview",
+            "state": "Vermont",
+            "n_exterior": "14015",
+            "n_interior": "80553"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Ilene_Kub@gmail.com",
+        "user": {
+            "name": "Jarod",
+            "surname": "Oberbrunner",
+            "second_surname": "Kassulke"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 21404,
+                "date": "2021-01-02",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "CanSino",
+                "batch": 70383,
+                "date": "2021-05-18",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Conn Plain",
+            "suburb": "dolore",
+            "postal_code": 75394,
+            "municipality": "Leorastad",
+            "state": "Texas",
+            "n_interior": "91746",
+            "n_exterior": "54460"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Ansley.Hintz31@yahoo.com",
+        "user": {
+            "name": "Caterina",
+            "surname": "Hirthe",
+            "second_surname": "Bartoletti"
+        },
+        "records": [
+            {
+                "brand": "CanSino",
+                "batch": 61957,
+                "date": "2020-12-04",
+                "dose": "Primera"
+            },
+            {
+                "brand": "CoronaVac",
+                "batch": 82582,
+                "date": "2020-12-11",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Araceli Squares",
+            "suburb": "dolore minim non anim",
+            "postal_code": 83029,
+            "municipality": "Heidenreichburgh",
+            "state": "Nebraska",
+            "n_interior": "57089",
+            "n_exterior": "86571"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Tyrell.Dickens@hotmail.com",
+        "user": {
+            "name": "Minerva",
+            "surname": "Robel",
+            "second_surname": "Schuster"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 74692,
+                "date": "2021-04-02",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Hills Brook",
+            "suburb": "ut pariatur Excepteur culpa minim",
+            "postal_code": 63942,
+            "municipality": "Tianamouth",
+            "state": "Ohio"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Alvena75@gmail.com",
+        "user": {
+            "name": "Hassie",
+            "surname": "Durgan",
+            "second_surname": "Huels"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 28110,
+                "date": "2021-09-24",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Savannah Lakes",
+            "suburb": "non adipisicing minim",
+            "postal_code": 65625,
+            "municipality": "North Maverick",
+            "state": "Nebraska",
+            "n_exterior": "66741",
+            "n_interior": "75970"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Alfredo.Huel18@gmail.com",
+        "user": {
+            "name": "Gino",
+            "surname": "Leuschke",
+            "second_surname": "Rippin"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 24694,
+                "date": "2021-04-30",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Moderna",
+                "batch": 8655,
+                "date": "2021-03-25",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Garland Dale",
+            "suburb": "id",
+            "postal_code": 37995,
+            "municipality": "New Rosalia",
+            "state": "Minnesota",
+            "n_interior": "93912"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Haley.Zieme98@yahoo.com",
+        "user": {
+            "name": "Sandy",
+            "surname": "Howe",
+            "second_surname": "Balistreri"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 2640,
+                "date": "2021-08-13",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Dahlia Ford",
+            "suburb": "qui enim Excepteur",
+            "postal_code": 21734,
+            "municipality": "Loyalfurt",
+            "state": "New Jersey",
+            "n_interior": "73459",
+            "n_exterior": "37092"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Virgil_Brekke78@gmail.com",
+        "user": {
+            "name": "Kolby",
+            "surname": "Crona",
+            "second_surname": "Harris"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 72596,
+                "date": "2020-11-16",
+                "dose": "Única"
+            },
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 8437,
+                "date": "2021-06-25",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Schmidt Parkways",
+            "suburb": "ut mollit consequat aliquip nisi",
+            "postal_code": 68968,
+            "municipality": "Bergstrommouth",
+            "state": "South Carolina",
+            "n_exterior": "36761",
+            "n_interior": "69761"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Nikita.Muller@hotmail.com",
+        "user": {
+            "name": "Mitchel",
+            "surname": "Graham",
+            "second_surname": "MacGyver"
+        },
+        "records": [
+            {
+                "brand": "CanSino",
+                "batch": 44143,
+                "date": "2021-03-17",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Grimes Prairie",
+            "suburb": "magna cupidatat",
+            "postal_code": 11250,
+            "municipality": "Rossfort",
+            "state": "Massachusetts",
+            "n_exterior": "3412",
+            "n_interior": "94779"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Roxane.Daugherty32@yahoo.com",
+        "user": {
+            "name": "Sonia",
+            "surname": "Herman",
+            "second_surname": "Armstrong"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 92789,
+                "date": "2021-05-21",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Brian Field",
+            "suburb": "nisi enim Lorem officia",
+            "postal_code": 20497,
+            "municipality": "Magnoliaville",
+            "state": "California",
+            "n_exterior": "39131"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Garrett_Trantow@hotmail.com",
+        "user": {
+            "name": "Hans",
+            "surname": "Goyette",
+            "second_surname": "Schmeler"
+        },
+        "records": [
+            {
+                "brand": "CanSino",
+                "batch": 80778,
+                "date": "2021-02-12",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Schmitt Villages",
+            "suburb": "voluptate magna in dolor",
+            "postal_code": 10595,
+            "municipality": "Bauchville",
+            "state": "Washington",
+            "n_interior": "4886",
+            "n_exterior": "53824"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Eric_Windler35@hotmail.com",
+        "user": {
+            "name": "Elmer",
+            "surname": "Reilly",
+            "second_surname": "Roob"
+        },
+        "records": [
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 45962,
+                "date": "2021-05-02",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Jennifer Knolls",
+            "suburb": "occaecat ut",
+            "postal_code": 5923,
+            "municipality": "New Wilfred",
+            "state": "Tennessee",
+            "n_exterior": "34582",
+            "n_interior": "62729"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Daija33@yahoo.com",
+        "user": {
+            "name": "Brando",
+            "surname": "Thompson",
+            "second_surname": "Simonis"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 26286,
+                "date": "2021-01-29",
+                "dose": "Única"
+            },
+            {
+                "brand": "CanSino",
+                "batch": 40135,
+                "date": "2021-07-15",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Macy Spring",
+            "suburb": "laboris ad ea aliqua",
+            "postal_code": 97615,
+            "municipality": "South Hardy",
+            "state": "Idaho"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Zachariah_Powlowski@hotmail.com",
+        "user": {
+            "name": "Ellsworth",
+            "surname": "Braun",
+            "second_surname": "Rohan"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 6889,
+                "date": "2021-10-12",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Sputnik V",
+                "batch": 34730,
+                "date": "2021-03-11",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Dovie View",
+            "suburb": "mollit officia deserunt eu",
+            "postal_code": 39416,
+            "municipality": "South Dorothy",
+            "state": "Arkansas",
+            "n_interior": "14985",
+            "n_exterior": "49604"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Elliot_Altenwerth6@gmail.com",
+        "user": {
+            "name": "Corene",
+            "surname": "Feest",
+            "second_surname": "Rempel"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 27737,
+                "date": "2021-01-29",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Carmela Lodge",
+            "suburb": "enim",
+            "postal_code": 55928,
+            "municipality": "East Carolanne",
+            "state": "Delaware",
+            "n_interior": "99067",
+            "n_exterior": "32653"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Leta.OHara@yahoo.com",
+        "user": {
+            "name": "Ramiro",
+            "surname": "Kreiger",
+            "second_surname": "Gutmann"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 13862,
+                "date": "2021-05-26",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Sputnik V",
+                "batch": 62307,
+                "date": "2021-10-14",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Bertrand Centers",
+            "suburb": "in dolor Duis consequat occaecat",
+            "postal_code": 10324,
+            "municipality": "Baronshire",
+            "state": "California",
+            "n_exterior": "28185"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Dariana57@hotmail.com",
+        "user": {
+            "name": "Marquis",
+            "surname": "Johns",
+            "second_surname": "Zemlak"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 69762,
+                "date": "2021-09-29",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Reichert Rest",
+            "suburb": "Lorem in minim eiusmod",
+            "postal_code": 28201,
+            "municipality": "East Josie",
+            "state": "Illinois",
+            "n_interior": "58518",
+            "n_exterior": "19016"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Ervin.Waelchi@hotmail.com",
+        "user": {
+            "name": "Yazmin",
+            "surname": "Pacocha",
+            "second_surname": "Steuber"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 1533,
+                "date": "2021-02-18",
+                "dose": "Única"
+            },
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 4119,
+                "date": "2021-05-14",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Anastasia Bypass",
+            "suburb": "ad aliquip",
+            "postal_code": 13457,
+            "municipality": "West Madalineview",
+            "state": "Colorado",
+            "n_exterior": "43994",
+            "n_interior": "72269"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Urban_Swaniawski@yahoo.com",
+        "user": {
+            "name": "Vivien",
+            "surname": "Lowe",
+            "second_surname": "Considine"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 43891,
+                "date": "2020-11-26",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Roob Divide",
+            "suburb": "reprehenderit",
+            "postal_code": 99982,
+            "municipality": "Padbergmouth",
+            "state": "Connecticut",
+            "n_interior": "10478",
+            "n_exterior": "16387"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Citlalli68@yahoo.com",
+        "user": {
+            "name": "Pearl",
+            "surname": "Renner",
+            "second_surname": "Mills"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 67005,
+                "date": "2021-09-23",
+                "dose": "Primera"
+            },
+            {
+                "brand": "CanSino",
+                "batch": 49034,
+                "date": "2021-09-20",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Rogahn Hills",
+            "suburb": "et voluptate",
+            "postal_code": 54912,
+            "municipality": "Wisozkport",
+            "state": "Iowa",
+            "n_interior": "41140",
+            "n_exterior": "21508"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Laila_Leuschke@gmail.com",
+        "user": {
+            "name": "Bryana",
+            "surname": "Christiansen",
+            "second_surname": "Kub"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 86555,
+                "date": "2021-04-23",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Daphne Branch",
+            "suburb": "cillum",
+            "postal_code": 68980,
+            "municipality": "Ortizville",
+            "state": "Virginia",
+            "n_interior": "78181",
+            "n_exterior": "16819"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Pearline62@hotmail.com",
+        "user": {
+            "name": "Audrey",
+            "surname": "Lowe",
+            "second_surname": "Heller"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 27645,
+                "date": "2021-03-01",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Maybelle Causeway",
+            "suburb": "consequat qui",
+            "postal_code": 59611,
+            "municipality": "Lake Shakira",
+            "state": "New Jersey",
+            "n_exterior": "49197",
+            "n_interior": "44236"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Damon16@hotmail.com",
+        "user": {
+            "name": "Piper",
+            "surname": "Turcotte",
+            "second_surname": "Lebsack"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 81472,
+                "date": "2021-06-12",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Elody Junctions",
+            "suburb": "laborum nostrud occaecat",
+            "postal_code": 67155,
+            "municipality": "Langworthchester",
+            "state": "New Jersey",
+            "n_exterior": "13236",
+            "n_interior": "62821"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Davin46@gmail.com",
+        "user": {
+            "name": "Darrel",
+            "surname": "Ondricka",
+            "second_surname": "Anderson"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 24250,
+                "date": "2021-03-02",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Covaxin",
+                "batch": 14470,
+                "date": "2021-08-28",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Lupe Walk",
+            "suburb": "in",
+            "postal_code": 20689,
+            "municipality": "Walshshire",
+            "state": "Arizona",
+            "n_interior": "20325",
+            "n_exterior": "29410"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Jefferey_Cronin79@hotmail.com",
+        "user": {
+            "name": "Winfield",
+            "surname": "Prohaska",
+            "second_surname": "Ebert"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 17357,
+                "date": "2021-02-26",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Freida Causeway",
+            "suburb": "cillum ut fugiat dolor",
+            "postal_code": 92440,
+            "municipality": "South Joanie",
+            "state": "Alaska",
+            "n_exterior": "41438",
+            "n_interior": "64758"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Wilfrid.Franecki96@hotmail.com",
+        "user": {
+            "name": "Dominic",
+            "surname": "Skiles",
+            "second_surname": "Medhurst"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 93091,
+                "date": "2021-09-16",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Adrien Club",
+            "suburb": "consequat velit",
+            "postal_code": 69654,
+            "municipality": "Pacochastad",
+            "state": "Wisconsin",
+            "n_interior": "76702",
+            "n_exterior": "60661"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Garrett57@gmail.com",
+        "user": {
+            "name": "Alvis",
+            "surname": "Witting",
+            "second_surname": "Effertz"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 76416,
+                "date": "2021-03-05",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "CoronaVac",
+                "batch": 2894,
+                "date": "2021-07-17",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Trevion Roads",
+            "suburb": "eu irure ut id enim",
+            "postal_code": 33248,
+            "municipality": "East Kayleyton",
+            "state": "Iowa"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Edwin_Klein@yahoo.com",
+        "user": {
+            "name": "Willis",
+            "surname": "Koss",
+            "second_surname": "Kertzmann"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 99857,
+                "date": "2021-04-22",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "Moderna",
+                "batch": 32941,
+                "date": "2021-03-11",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Jakob Isle",
+            "suburb": "cillum Duis nostrud",
+            "postal_code": 24333,
+            "municipality": "Nienowchester",
+            "state": "South Dakota"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Bruce.Emard57@yahoo.com",
+        "user": {
+            "name": "Tyrel",
+            "surname": "Weimann",
+            "second_surname": "Nolan"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 86504,
+                "date": "2021-07-02",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Edwardo Mission",
+            "suburb": "in qui eiusmod consequat esse",
+            "postal_code": 81504,
+            "municipality": "South Josephine",
+            "state": "Oklahoma",
+            "n_interior": "38428",
+            "n_exterior": "33443"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Cade69@hotmail.com",
+        "user": {
+            "name": "Eugenia",
+            "surname": "Spinka",
+            "second_surname": "Kerluke"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 31015,
+                "date": "2021-08-09",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Filomena Radial",
+            "suburb": "id",
+            "postal_code": 77451,
+            "municipality": "East Eloise",
+            "state": "Georgia"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Elmer_Watsica@yahoo.com",
+        "user": {
+            "name": "Adelbert",
+            "surname": "Greenfelder",
+            "second_surname": "Bruen"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 45468,
+                "date": "2021-04-10",
+                "dose": "Única"
+            },
+            {
+                "brand": "Covaxin",
+                "batch": 68202,
+                "date": "2021-02-08",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Gottlieb Knoll",
+            "suburb": "culpa officia amet laboris",
+            "postal_code": 27185,
+            "municipality": "Lake Carissa",
+            "state": "North Dakota",
+            "n_interior": "37341",
+            "n_exterior": "79826"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Osvaldo_Bins91@yahoo.com",
+        "user": {
+            "name": "Kory",
+            "surname": "Price",
+            "second_surname": "Kovacek"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 60193,
+                "date": "2021-02-03",
+                "dose": "Primera"
+            },
+            {
+                "brand": "CanSino",
+                "batch": 3918,
+                "date": "2021-02-06",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Mafalda Radial",
+            "suburb": "magna dolore ut aliqua",
+            "postal_code": 63292,
+            "municipality": "New Gregorioton",
+            "state": "Illinois",
+            "n_interior": "20721",
+            "n_exterior": "86168"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Frederique40@hotmail.com",
+        "user": {
+            "name": "Selmer",
+            "surname": "Williamson",
+            "second_surname": "Krajcik"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 13134,
+                "date": "2021-03-31",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "MacGyver Union",
+            "suburb": "Ut mollit cillum",
+            "postal_code": 95099,
+            "municipality": "Strackeport",
+            "state": "Rhode Island",
+            "n_exterior": "39655",
+            "n_interior": "76245"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Emilia30@hotmail.com",
+        "user": {
+            "name": "Enrico",
+            "surname": "Marvin",
+            "second_surname": "Rutherford"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 93450,
+                "date": "2021-08-15",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "Covaxin",
+                "batch": 87661,
+                "date": "2020-11-22",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Wolff Ville",
+            "suburb": "est Excepteur ex irure non",
+            "postal_code": 52006,
+            "municipality": "North Clareside",
+            "state": "South Carolina",
+            "n_interior": "71814",
+            "n_exterior": "42094"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Everette25@gmail.com",
+        "user": {
+            "name": "Dillon",
+            "surname": "Schmitt",
+            "second_surname": "Schinner"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 7048,
+                "date": "2021-05-30",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 18261,
+                "date": "2021-02-06",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Hilpert Causeway",
+            "suburb": "est nulla dolore",
+            "postal_code": 11590,
+            "municipality": "North Patmouth",
+            "state": "Missouri",
+            "n_exterior": "25210",
+            "n_interior": "1591"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Houston36@yahoo.com",
+        "user": {
+            "name": "Elmo",
+            "surname": "Schaden",
+            "second_surname": "Price"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 17841,
+                "date": "2021-09-09",
+                "dose": "Única"
+            },
+            {
+                "brand": "Covaxin",
+                "batch": 60569,
+                "date": "2020-12-13",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Miller Roads",
+            "suburb": "veniam ipsum sint in dolor",
+            "postal_code": 30187,
+            "municipality": "Port Tressaside",
+            "state": "Montana",
+            "n_interior": "70874",
+            "n_exterior": "95672"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Peyton47@yahoo.com",
+        "user": {
+            "name": "Luella",
+            "surname": "Strosin",
+            "second_surname": "Robel"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 83192,
+                "date": "2021-03-11",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Sean River",
+            "suburb": "cupidatat exercitation culpa",
+            "postal_code": 39953,
+            "municipality": "North Janice",
+            "state": "Florida",
+            "n_exterior": "42789"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Oceane.Hauck@yahoo.com",
+        "user": {
+            "name": "Stone",
+            "surname": "West",
+            "second_surname": "Parisian"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 29366,
+                "date": "2021-01-19",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Janis Road",
+            "suburb": "id officia exercitation aliquip",
+            "postal_code": 97370,
+            "municipality": "Emeryberg",
+            "state": "Arizona",
+            "n_interior": "29638",
+            "n_exterior": "94051"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Rachel.Quigley55@gmail.com",
+        "user": {
+            "name": "Mylene",
+            "surname": "Pacocha",
+            "second_surname": "Nitzsche"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 69682,
+                "date": "2021-06-01",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Tyrel Fall",
+            "suburb": "Ut qui fugiat",
+            "postal_code": 53799,
+            "municipality": "Kerluketon",
+            "state": "Colorado",
+            "n_interior": "79536"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Jaden_Bruen2@hotmail.com",
+        "user": {
+            "name": "Monte",
+            "surname": "Jenkins",
+            "second_surname": "Williamson"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 33918,
+                "date": "2021-01-12",
+                "dose": "Única"
+            },
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 46408,
+                "date": "2021-03-01",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Gleichner Mountain",
+            "suburb": "est",
+            "postal_code": 89704,
+            "municipality": "East Lonnieport",
+            "state": "Arkansas",
+            "n_exterior": "28858",
+            "n_interior": "59951"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Sunny.Huel20@gmail.com",
+        "user": {
+            "name": "Maxime",
+            "surname": "Schneider",
+            "second_surname": "Hane"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 36713,
+                "date": "2021-05-20",
+                "dose": "Única"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 6920,
+                "date": "2021-06-06",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Ward Mission",
+            "suburb": "occaecat nostrud sed",
+            "postal_code": 69839,
+            "municipality": "Drakeberg",
+            "state": "Missouri",
+            "n_interior": "83354",
+            "n_exterior": "9539"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Maybelle75@hotmail.com",
+        "user": {
+            "name": "Josiah",
+            "surname": "Bartell",
+            "second_surname": "Wuckert"
+        },
+        "records": [
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 89069,
+                "date": "2021-06-20",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Sputnik V",
+                "batch": 16839,
+                "date": "2021-02-06",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Jimmie Harbors",
+            "suburb": "in Excepteur",
+            "postal_code": 43297,
+            "municipality": "Kuhnmouth",
+            "state": "Virginia",
+            "n_exterior": "42643",
+            "n_interior": "8364"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Rey_Herzog@yahoo.com",
+        "user": {
+            "name": "Madyson",
+            "surname": "Considine",
+            "second_surname": "Koss"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 24322,
+                "date": "2021-01-24",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 40177,
+                "date": "2020-10-30",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Kavon Branch",
+            "suburb": "id in occaecat sit quis",
+            "postal_code": 20785,
+            "municipality": "North Victoriaborough",
+            "state": "Minnesota",
+            "n_exterior": "4100",
+            "n_interior": "2158"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Mac.Abernathy@gmail.com",
+        "user": {
+            "name": "Ewald",
+            "surname": "Adams",
+            "second_surname": "Leffler"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 81229,
+                "date": "2020-12-11",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Wilbert Haven",
+            "suburb": "Lorem dolor minim",
+            "postal_code": 35753,
+            "municipality": "Karinachester",
+            "state": "Mississippi",
+            "n_interior": "21149",
+            "n_exterior": "18184"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Jaron25@gmail.com",
+        "user": {
+            "name": "Thelma",
+            "surname": "Wilderman",
+            "second_surname": "Waelchi"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 33143,
+                "date": "2021-02-17",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 73092,
+                "date": "2021-06-23",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Janelle Lights",
+            "suburb": "tempor sed mollit non",
+            "postal_code": 59597,
+            "municipality": "Hiramburgh",
+            "state": "Oregon",
+            "n_interior": "49980"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Buck73@gmail.com",
+        "user": {
+            "name": "Ruthie",
+            "surname": "Upton",
+            "second_surname": "Kozey"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 13180,
+                "date": "2021-05-20",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 85923,
+                "date": "2020-11-24",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Shaun Walks",
+            "suburb": "magna ex aliqua ea",
+            "postal_code": 83606,
+            "municipality": "New Nilsburgh",
+            "state": "New Hampshire",
+            "n_exterior": "47854",
+            "n_interior": "1432"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Wiley_Lemke38@gmail.com",
+        "user": {
+            "name": "Bobbie",
+            "surname": "Rohan",
+            "second_surname": "Sawayn"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 69253,
+                "date": "2021-01-03",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Darby Harbors",
+            "suburb": "eiusmod aliquip",
+            "postal_code": 72056,
+            "municipality": "South Sabrinaburgh",
+            "state": "Texas",
+            "n_interior": "62161",
+            "n_exterior": "97959"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Edna11@gmail.com",
+        "user": {
+            "name": "Joanny",
+            "surname": "Wilkinson",
+            "second_surname": "Aufderhar"
+        },
+        "records": [
+            {
+                "brand": "CanSino",
+                "batch": 76159,
+                "date": "2020-11-11",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Mayer Fields",
+            "suburb": "Lorem culpa deserunt pariatur",
+            "postal_code": 98196,
+            "municipality": "Lehnerborough",
+            "state": "Iowa",
+            "n_interior": "72141",
+            "n_exterior": "61153"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Loren.Tromp29@hotmail.com",
+        "user": {
+            "name": "Niko",
+            "surname": "Paucek",
+            "second_surname": "Hackett"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 77207,
+                "date": "2020-10-30",
+                "dose": "Primera"
+            },
+            {
+                "brand": "CoronaVac",
+                "batch": 4108,
+                "date": "2020-12-31",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Colton Expressway",
+            "suburb": "Lorem ut",
+            "postal_code": 36151,
+            "municipality": "Port Hellen",
+            "state": "Idaho",
+            "n_interior": "37328",
+            "n_exterior": "66413"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Theresia_Pacocha@yahoo.com",
+        "user": {
+            "name": "Elizabeth",
+            "surname": "Altenwerth",
+            "second_surname": "Mueller"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 47048,
+                "date": "2020-11-13",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "McClure Mills",
+            "suburb": "consequat",
+            "postal_code": 86141,
+            "municipality": "Port Amanifort",
+            "state": "Oklahoma",
+            "n_exterior": "58190",
+            "n_interior": "13104"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Jean_Marvin@hotmail.com",
+        "user": {
+            "name": "Cheyenne",
+            "surname": "Sipes",
+            "second_surname": "Mayer"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 8534,
+                "date": "2021-09-06",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 75759,
+                "date": "2021-07-08",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Hills Ridges",
+            "suburb": "aliqua tempor ipsum in eiusmod",
+            "postal_code": 24054,
+            "municipality": "Crystelside",
+            "state": "Indiana",
+            "n_interior": "68040",
+            "n_exterior": "17686"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Christopher_Denesik@hotmail.com",
+        "user": {
+            "name": "Alvis",
+            "surname": "Sipes",
+            "second_surname": "Turcotte"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 10752,
+                "date": "2021-05-03",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Ethan Brook",
+            "suburb": "eiusmod sed reprehenderit ipsum",
+            "postal_code": 52262,
+            "municipality": "Alfredaburgh",
+            "state": "Colorado",
+            "n_interior": "61163",
+            "n_exterior": "30456"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Jarrod90@yahoo.com",
+        "user": {
+            "name": "Bridie",
+            "surname": "Fahey",
+            "second_surname": "Kreiger"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 45078,
+                "date": "2021-07-17",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Julianne Drive",
+            "suburb": "eu cupidatat laborum",
+            "postal_code": 67691,
+            "municipality": "Lake Eltamouth",
+            "state": "Wyoming",
+            "n_exterior": "33078",
+            "n_interior": "28382"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Virginie53@yahoo.com",
+        "user": {
+            "name": "Damon",
+            "surname": "Windler",
+            "second_surname": "Gutkowski"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 39103,
+                "date": "2021-09-07",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "Sputnik V",
+                "batch": 53409,
+                "date": "2021-03-13",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Brown Locks",
+            "suburb": "dolor",
+            "postal_code": 43421,
+            "municipality": "Baileyton",
+            "state": "Illinois"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Antonetta51@yahoo.com",
+        "user": {
+            "name": "Waino",
+            "surname": "Green",
+            "second_surname": "Reilly"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 54084,
+                "date": "2020-12-03",
+                "dose": "Primera"
+            },
+            {
+                "brand": "CoronaVac",
+                "batch": 3512,
+                "date": "2021-10-09",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Okey Lights",
+            "suburb": "Lorem sed ea",
+            "postal_code": 83843,
+            "municipality": "Lake Aniyah",
+            "state": "Utah",
+            "n_exterior": "33147",
+            "n_interior": "18338"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Edythe_Corkery0@yahoo.com",
+        "user": {
+            "name": "Presley",
+            "surname": "Bergnaum",
+            "second_surname": "Schuster"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 62312,
+                "date": "2021-09-06",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Stanford Isle",
+            "suburb": "officia dolor",
+            "postal_code": 54378,
+            "municipality": "Hollisshire",
+            "state": "Maryland",
+            "n_exterior": "99206",
+            "n_interior": "92689"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Margaret.Mayer@gmail.com",
+        "user": {
+            "name": "Lina",
+            "surname": "Bashirian",
+            "second_surname": "Wuckert"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 70873,
+                "date": "2021-06-26",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Alycia Ridge",
+            "suburb": "proident consectetur id",
+            "postal_code": 66871,
+            "municipality": "Manuelaview",
+            "state": "Pennsylvania",
+            "n_exterior": "24352",
+            "n_interior": "34098"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Columbus_Collins36@gmail.com",
+        "user": {
+            "name": "Ronny",
+            "surname": "Heidenreich",
+            "second_surname": "Aufderhar"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 22279,
+                "date": "2020-11-18",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 91262,
+                "date": "2021-06-18",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Tyree Overpass",
+            "suburb": "amet ex proident",
+            "postal_code": 12020,
+            "municipality": "Katrineburgh",
+            "state": "New Mexico",
+            "n_exterior": "8729",
+            "n_interior": "22"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Eldora_Roob@gmail.com",
+        "user": {
+            "name": "Boyd",
+            "surname": "Simonis",
+            "second_surname": "Dickens"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 5707,
+                "date": "2021-03-27",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "Covaxin",
+                "batch": 87783,
+                "date": "2021-06-19",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Newton Squares",
+            "suburb": "anim id Ut",
+            "postal_code": 39884,
+            "municipality": "North Cristobal",
+            "state": "Kentucky",
+            "n_interior": "50983",
+            "n_exterior": "97226"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Cora.Kris@gmail.com",
+        "user": {
+            "name": "Gabriella",
+            "surname": "Vandervort",
+            "second_surname": "Kerluke"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 43739,
+                "date": "2021-04-10",
+                "dose": "Primera"
+            },
+            {
+                "brand": "CoronaVac",
+                "batch": 32433,
+                "date": "2021-09-14",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Hollis Islands",
+            "suburb": "dolor ut",
+            "postal_code": 90987,
+            "municipality": "East Unafurt",
+            "state": "Florida",
+            "n_interior": "805"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Eve_Mitchell28@yahoo.com",
+        "user": {
+            "name": "Ephraim",
+            "surname": "Tromp",
+            "second_surname": "Mante"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 44907,
+                "date": "2020-11-12",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Lucas Corner",
+            "suburb": "incididunt commodo",
+            "postal_code": 13253,
+            "municipality": "New Nya",
+            "state": "Washington",
+            "n_exterior": "63627",
+            "n_interior": "86557"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Buddy.Ritchie@yahoo.com",
+        "user": {
+            "name": "Jamel",
+            "surname": "King",
+            "second_surname": "Brekke"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 50013,
+                "date": "2021-02-13",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Ryan Forges",
+            "suburb": "voluptate anim dolor",
+            "postal_code": 34967,
+            "municipality": "East Kanetown",
+            "state": "Iowa",
+            "n_interior": "63408",
+            "n_exterior": "98156"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Daren5@hotmail.com",
+        "user": {
+            "name": "Breanne",
+            "surname": "Stracke",
+            "second_surname": "Schiller"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 96689,
+                "date": "2021-04-05",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Sebastian View",
+            "suburb": "sunt et officia",
+            "postal_code": 23592,
+            "municipality": "North Heavenberg",
+            "state": "Utah",
+            "n_interior": "68416",
+            "n_exterior": "24795"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Janick_Wisoky@yahoo.com",
+        "user": {
+            "name": "Cora",
+            "surname": "Nitzsche",
+            "second_surname": "Hagenes"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 32786,
+                "date": "2021-09-19",
+                "dose": "Única"
+            },
+            {
+                "brand": "Sputnik V",
+                "batch": 56793,
+                "date": "2021-07-22",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Quitzon Points",
+            "suburb": "esse Duis tempor ipsum",
+            "postal_code": 18426,
+            "municipality": "Lake Ronton",
+            "state": "Missouri",
+            "n_interior": "65189"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Norwood.Schaden78@hotmail.com",
+        "user": {
+            "name": "Dagmar",
+            "surname": "Murphy",
+            "second_surname": "Ziemann"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 57710,
+                "date": "2021-06-20",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Kenyon Extension",
+            "suburb": "amet aliquip culpa voluptate veniam",
+            "postal_code": 49884,
+            "municipality": "North Gustaveside",
+            "state": "North Dakota",
+            "n_interior": "91002",
+            "n_exterior": "57344"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Pierre_Funk72@gmail.com",
+        "user": {
+            "name": "Sofia",
+            "surname": "Schmidt",
+            "second_surname": "Rau"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 41949,
+                "date": "2021-08-13",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 88579,
+                "date": "2021-06-06",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Mabel Hollow",
+            "suburb": "anim labore",
+            "postal_code": 8900,
+            "municipality": "West Alex",
+            "state": "Massachusetts",
+            "n_exterior": "96978",
+            "n_interior": "16468"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Jaron_Hartmann@hotmail.com",
+        "user": {
+            "name": "Helen",
+            "surname": "Weimann",
+            "second_surname": "Cruickshank"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 47956,
+                "date": "2021-05-13",
+                "dose": "Primera"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 79748,
+                "date": "2021-01-25",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Judah Canyon",
+            "suburb": "tempor in qui Ut",
+            "postal_code": 38002,
+            "municipality": "North Leilanibury",
+            "state": "Colorado",
+            "n_interior": "53544",
+            "n_exterior": "34787"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Hermina76@yahoo.com",
+        "user": {
+            "name": "Emie",
+            "surname": "Corwin",
+            "second_surname": "Schultz"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 25134,
+                "date": "2020-11-23",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Stanton Green",
+            "suburb": "laborum",
+            "postal_code": 75976,
+            "municipality": "East Loma",
+            "state": "Arkansas",
+            "n_interior": "71705",
+            "n_exterior": "60822"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Ellis36@hotmail.com",
+        "user": {
+            "name": "Isabelle",
+            "surname": "Dickens",
+            "second_surname": "Jaskolski"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 92773,
+                "date": "2021-09-08",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "CanSino",
+                "batch": 57790,
+                "date": "2021-02-28",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Kris Via",
+            "suburb": "amet voluptate",
+            "postal_code": 62078,
+            "municipality": "South Jovanibury",
+            "state": "Delaware"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Katherine31@gmail.com",
+        "user": {
+            "name": "Juliana",
+            "surname": "Schulist",
+            "second_surname": "Hayes"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 99460,
+                "date": "2021-09-28",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Lubowitz Light",
+            "suburb": "aliqua consequat proident",
+            "postal_code": 12905,
+            "municipality": "Feeneyville",
+            "state": "Nebraska",
+            "n_interior": "29608",
+            "n_exterior": "83508"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Megane.Shanahan61@yahoo.com",
+        "user": {
+            "name": "Jeffry",
+            "surname": "Johnston",
+            "second_surname": "Veum"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 41439,
+                "date": "2021-09-12",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Runolfsson Highway",
+            "suburb": "qui",
+            "postal_code": 38570,
+            "municipality": "Ratkeburgh",
+            "state": "West Virginia",
+            "n_exterior": "49579",
+            "n_interior": "71222"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Adolf.Kessler5@hotmail.com",
+        "user": {
+            "name": "Lambert",
+            "surname": "Pagac",
+            "second_surname": "Legros"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 82596,
+                "date": "2021-08-08",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Edgar Motorway",
+            "suburb": "minim irure Lorem",
+            "postal_code": 1838,
+            "municipality": "Ortizbury",
+            "state": "New Mexico",
+            "n_exterior": "5651",
+            "n_interior": "19059"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Kory_Spencer72@gmail.com",
+        "user": {
+            "name": "Niko",
+            "surname": "Hamill",
+            "second_surname": "Bailey"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 62203,
+                "date": "2021-09-18",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Elwyn Port",
+            "suburb": "proident",
+            "postal_code": 84546,
+            "municipality": "Brentfort",
+            "state": "Georgia",
+            "n_interior": "52207",
+            "n_exterior": "97066"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Laron.OKeefe@hotmail.com",
+        "user": {
+            "name": "Chyna",
+            "surname": "Stamm",
+            "second_surname": "Padberg"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 29849,
+                "date": "2021-09-19",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Moderna",
+                "batch": 38098,
+                "date": "2020-12-27",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Wilderman Forks",
+            "suburb": "eiusmod cillum sed do minim",
+            "postal_code": 28558,
+            "municipality": "Lake Ruthie",
+            "state": "Arkansas",
+            "n_exterior": "99712",
+            "n_interior": "70050"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Waino_Kiehn@yahoo.com",
+        "user": {
+            "name": "Emerson",
+            "surname": "Kshlerin",
+            "second_surname": "Flatley"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 29111,
+                "date": "2021-03-07",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Schroeder Parks",
+            "suburb": "ad non ex aute",
+            "postal_code": 69932,
+            "municipality": "Lake Kamren",
+            "state": "Michigan",
+            "n_interior": "8002",
+            "n_exterior": "76066"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Clair_Hand0@hotmail.com",
+        "user": {
+            "name": "Karli",
+            "surname": "Hermann",
+            "second_surname": "Herzog"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 4611,
+                "date": "2021-03-27",
+                "dose": "Única"
+            },
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 11614,
+                "date": "2020-11-14",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Lelah Parkways",
+            "suburb": "laborum est cupidatat in ut",
+            "postal_code": 14436,
+            "municipality": "Dejuanburgh",
+            "state": "Oklahoma",
+            "n_interior": "45953",
+            "n_exterior": "71074"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Raleigh.Gorczany@hotmail.com",
+        "user": {
+            "name": "Missouri",
+            "surname": "Bauch",
+            "second_surname": "Welch"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 75536,
+                "date": "2021-05-02",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "Pfizer",
+                "batch": 74673,
+                "date": "2021-07-07",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Michele Meadows",
+            "suburb": "ea adipisicing dolor tempor",
+            "postal_code": 92119,
+            "municipality": "West Hortense",
+            "state": "Nebraska",
+            "n_exterior": "35316"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Dianna_Weissnat40@gmail.com",
+        "user": {
+            "name": "Joseph",
+            "surname": "Gaylord",
+            "second_surname": "Bayer"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 13800,
+                "date": "2021-10-14",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Betsy Mountains",
+            "suburb": "quis",
+            "postal_code": 60329,
+            "municipality": "South Lenorestad",
+            "state": "Mississippi",
+            "n_exterior": "76347",
+            "n_interior": "44498"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Idell60@yahoo.com",
+        "user": {
+            "name": "Ibrahim",
+            "surname": "Skiles",
+            "second_surname": "Wolff"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 91387,
+                "date": "2021-01-22",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Lebsack Via",
+            "suburb": "ipsum ad",
+            "postal_code": 83494,
+            "municipality": "New Arvel",
+            "state": "North Carolina",
+            "n_exterior": "48239",
+            "n_interior": "90757"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Esperanza98@yahoo.com",
+        "user": {
+            "name": "Matilde",
+            "surname": "Effertz",
+            "second_surname": "O'Kon"
+        },
+        "records": [
+            {
+                "brand": "CanSino",
+                "batch": 32733,
+                "date": "2021-04-13",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Mraz Garden",
+            "suburb": "minim Excepteur aliqua esse id",
+            "postal_code": 54683,
+            "municipality": "Generalville",
+            "state": "Mississippi",
+            "n_interior": "11043",
+            "n_exterior": "45891"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Concepcion.Erdman14@hotmail.com",
+        "user": {
+            "name": "Lucius",
+            "surname": "Bernier",
+            "second_surname": "Kutch"
+        },
+        "records": [
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 43020,
+                "date": "2021-10-04",
+                "dose": "Primera"
+            },
+            {
+                "brand": "CoronaVac",
+                "batch": 25819,
+                "date": "2021-02-26",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Syble Cove",
+            "suburb": "incididunt cupidatat sunt id",
+            "postal_code": 47073,
+            "municipality": "Lake Diana",
+            "state": "Alaska",
+            "n_exterior": "8905",
+            "n_interior": "48813"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Onie_Gleichner@hotmail.com",
+        "user": {
+            "name": "Avis",
+            "surname": "Hilpert",
+            "second_surname": "Steuber"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 73326,
+                "date": "2020-11-25",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Lockman Station",
+            "suburb": "aliqua occaecat deserunt proident",
+            "postal_code": 32244,
+            "municipality": "South Amber",
+            "state": "New Jersey",
+            "n_interior": "69791",
+            "n_exterior": "53658"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Santa64@yahoo.com",
+        "user": {
+            "name": "Emery",
+            "surname": "Borer",
+            "second_surname": "Leffler"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 57630,
+                "date": "2021-02-04",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Cummings Divide",
+            "suburb": "Excepteur",
+            "postal_code": 90684,
+            "municipality": "New Jamison",
+            "state": "Nevada"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Annabell.Jacobi@yahoo.com",
+        "user": {
+            "name": "Stephon",
+            "surname": "Johns",
+            "second_surname": "Hackett"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 52815,
+                "date": "2021-09-08",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Mireya Lake",
+            "suburb": "non consectetur",
+            "postal_code": 53626,
+            "municipality": "Lake King",
+            "state": "Alaska"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Samara.Spencer37@hotmail.com",
+        "user": {
+            "name": "Clark",
+            "surname": "Satterfield",
+            "second_surname": "Kuhlman"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 54533,
+                "date": "2021-07-06",
+                "dose": "Única"
+            },
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 26649,
+                "date": "2021-04-11",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Stoltenberg Lodge",
+            "suburb": "Excepteur eiusmod esse",
+            "postal_code": 37983,
+            "municipality": "Leonhaven",
+            "state": "Florida",
+            "n_exterior": "6096",
+            "n_interior": "70456"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Verdie95@yahoo.com",
+        "user": {
+            "name": "Irving",
+            "surname": "Barrows",
+            "second_surname": "Wiegand"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 16913,
+                "date": "2021-08-18",
+                "dose": "Única"
+            },
+            {
+                "brand": "CanSino",
+                "batch": 22421,
+                "date": "2021-01-04",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Jennie Ferry",
+            "suburb": "Excepteur do ullamco",
+            "postal_code": 274,
+            "municipality": "Port Zion",
+            "state": "New York",
+            "n_exterior": "78608",
+            "n_interior": "3552"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Jaqueline.Wolff99@gmail.com",
+        "user": {
+            "name": "Lamont",
+            "surname": "Monahan",
+            "second_surname": "Stiedemann"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 80490,
+                "date": "2020-11-04",
+                "dose": "Única"
+            },
+            {
+                "brand": "CoronaVac",
+                "batch": 96303,
+                "date": "2021-03-18",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Jamil Corners",
+            "suburb": "sit nisi elit exercitation",
+            "postal_code": 19827,
+            "municipality": "East Trudie",
+            "state": "Mississippi",
+            "n_interior": "45712",
+            "n_exterior": "53366"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Adelia_Okuneva82@gmail.com",
+        "user": {
+            "name": "Madge",
+            "surname": "Runte",
+            "second_surname": "Feest"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 21825,
+                "date": "2021-03-09",
+                "dose": "Única"
+            },
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 12928,
+                "date": "2020-10-26",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "O'Reilly Pike",
+            "suburb": "elit magna",
+            "postal_code": 68860,
+            "municipality": "East Elliot",
+            "state": "Utah",
+            "n_exterior": "85617",
+            "n_interior": "53800"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Kip67@hotmail.com",
+        "user": {
+            "name": "Jennyfer",
+            "surname": "Little",
+            "second_surname": "Gibson"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 7836,
+                "date": "2020-11-29",
+                "dose": "Única"
+            },
+            {
+                "brand": "Pfizer",
+                "batch": 20172,
+                "date": "2021-10-16",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Wilbert Forest",
+            "suburb": "Excepteur reprehenderit culpa proident",
+            "postal_code": 51459,
+            "municipality": "West Lamar",
+            "state": "Michigan",
+            "n_exterior": "86682",
+            "n_interior": "29795"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Valentine.Goldner98@hotmail.com",
+        "user": {
+            "name": "Camylle",
+            "surname": "Purdy",
+            "second_surname": "Marvin"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 78075,
+                "date": "2021-07-07",
+                "dose": "Primera"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 25183,
+                "date": "2021-08-30",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Colt Fort",
+            "suburb": "eu quis proident magna enim",
+            "postal_code": 16992,
+            "municipality": "Lake Garnett",
+            "state": "North Dakota"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Saige13@yahoo.com",
+        "user": {
+            "name": "Nathaniel",
+            "surname": "Mills",
+            "second_surname": "Funk"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 22447,
+                "date": "2021-06-07",
+                "dose": "Única"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 30903,
+                "date": "2021-01-01",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Oberbrunner Mission",
+            "suburb": "sint et minim",
+            "postal_code": 43096,
+            "municipality": "Port Casey",
+            "state": "Virginia"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Kelvin95@gmail.com",
+        "user": {
+            "name": "Jacquelyn",
+            "surname": "Leannon",
+            "second_surname": "Bradtke"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 27478,
+                "date": "2021-04-11",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Carole Lane",
+            "suburb": "in",
+            "postal_code": 32884,
+            "municipality": "Lake Emeryside",
+            "state": "Nebraska",
+            "n_exterior": "42194",
+            "n_interior": "8645"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Halie31@yahoo.com",
+        "user": {
+            "name": "Vicky",
+            "surname": "Murazik",
+            "second_surname": "Bashirian"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 78494,
+                "date": "2020-11-25",
+                "dose": "Única"
+            },
+            {
+                "brand": "Pfizer",
+                "batch": 97975,
+                "date": "2020-11-03",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Bosco Stream",
+            "suburb": "qui",
+            "postal_code": 68466,
+            "municipality": "West Toni",
+            "state": "Delaware",
+            "n_exterior": "27296",
+            "n_interior": "80128"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Riley_Robel68@yahoo.com",
+        "user": {
+            "name": "Ryan",
+            "surname": "Fritsch",
+            "second_surname": "Hudson"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 73576,
+                "date": "2021-08-29",
+                "dose": "Primera"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 55230,
+                "date": "2021-01-03",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Hank Oval",
+            "suburb": "ut pariatur mollit in eiusmod",
+            "postal_code": 25670,
+            "municipality": "Gertrudefort",
+            "state": "Nevada",
+            "n_interior": "6559",
+            "n_exterior": "9612"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Janick.Cremin22@gmail.com",
+        "user": {
+            "name": "Rosalinda",
+            "surname": "Ratke",
+            "second_surname": "Wyman"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 13868,
+                "date": "2021-04-14",
+                "dose": "Única"
+            },
+            {
+                "brand": "Moderna",
+                "batch": 85021,
+                "date": "2021-03-24",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Hauck Falls",
+            "suburb": "pariatur",
+            "postal_code": 71859,
+            "municipality": "Considineview",
+            "state": "Iowa",
+            "n_exterior": "81575"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Lora_Dickinson53@gmail.com",
+        "user": {
+            "name": "Kolby",
+            "surname": "Greenholt",
+            "second_surname": "Feil"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 11150,
+                "date": "2021-05-02",
+                "dose": "Única"
+            },
+            {
+                "brand": "Pfizer",
+                "batch": 8043,
+                "date": "2021-04-14",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Quigley Islands",
+            "suburb": "consequat id dolore sit",
+            "postal_code": 47649,
+            "municipality": "Port Xzavierfort",
+            "state": "Louisiana",
+            "n_exterior": "16573",
+            "n_interior": "33392"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Wendell23@gmail.com",
+        "user": {
+            "name": "Mona",
+            "surname": "Howe",
+            "second_surname": "Smith"
+        },
+        "records": [
+            {
+                "brand": "CoronaVac",
+                "batch": 78396,
+                "date": "2021-05-21",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Kuhic Spring",
+            "suburb": "enim in",
+            "postal_code": 89293,
+            "municipality": "South Deontetown",
+            "state": "New Mexico",
+            "n_interior": "47710",
+            "n_exterior": "69675"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Chelsea_Kuhn84@yahoo.com",
+        "user": {
+            "name": "Gabrielle",
+            "surname": "Jacobs",
+            "second_surname": "Hettinger"
+        },
+        "records": [
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 50752,
+                "date": "2021-03-23",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 33683,
+                "date": "2021-03-13",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Oswaldo Island",
+            "suburb": "sit sunt et velit",
+            "postal_code": 98841,
+            "municipality": "South Randal",
+            "state": "Minnesota",
+            "n_interior": "55688",
+            "n_exterior": "49191"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Garnet21@yahoo.com",
+        "user": {
+            "name": "Caterina",
+            "surname": "Kohler",
+            "second_surname": "Green"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 8207,
+                "date": "2020-12-24",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Kuhn Oval",
+            "suburb": "elit fugiat cillum",
+            "postal_code": 95804,
+            "municipality": "West Kolbybury",
+            "state": "West Virginia",
+            "n_interior": "37092",
+            "n_exterior": "36800"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Alta_Rau@yahoo.com",
+        "user": {
+            "name": "Alana",
+            "surname": "Dach",
+            "second_surname": "Barton"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 37086,
+                "date": "2021-10-10",
+                "dose": "Única"
+            },
+            {
+                "brand": "Covaxin",
+                "batch": 28582,
+                "date": "2021-08-22",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Moore Crossing",
+            "suburb": "ea dolor",
+            "postal_code": 90442,
+            "municipality": "New Deborahview",
+            "state": "California",
+            "n_exterior": "14296",
+            "n_interior": "91621"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Eliezer.Kuhic37@hotmail.com",
+        "user": {
+            "name": "Shad",
+            "surname": "Moen",
+            "second_surname": "Daugherty"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 28048,
+                "date": "2020-12-30",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Paige Lock",
+            "suburb": "veniam",
+            "postal_code": 40097,
+            "municipality": "New Vicentashire",
+            "state": "Georgia",
+            "n_interior": "84109",
+            "n_exterior": "94560"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Ivy52@hotmail.com",
+        "user": {
+            "name": "Jedidiah",
+            "surname": "Willms",
+            "second_surname": "Hilpert"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 66823,
+                "date": "2021-01-14",
+                "dose": "Única"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 12610,
+                "date": "2021-06-03",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Pierre Locks",
+            "suburb": "ea dolor quis consequat",
+            "postal_code": 44902,
+            "municipality": "New Darron",
+            "state": "Oregon",
+            "n_exterior": "78332",
+            "n_interior": "23576"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Jaida.Durgan@hotmail.com",
+        "user": {
+            "name": "Helene",
+            "surname": "Collins",
+            "second_surname": "Powlowski"
+        },
+        "records": [
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 84866,
+                "date": "2020-12-21",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Jordyn Branch",
+            "suburb": "consequat eiusmod Excepteur",
+            "postal_code": 39787,
+            "municipality": "South Westonbury",
+            "state": "Florida",
+            "n_exterior": "98559",
+            "n_interior": "21591"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Tianna93@yahoo.com",
+        "user": {
+            "name": "Jovani",
+            "surname": "Smitham",
+            "second_surname": "Halvorson"
+        },
+        "records": [
+            {
+                "brand": "CanSino",
+                "batch": 51671,
+                "date": "2020-10-26",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Renner Inlet",
+            "suburb": "voluptate pariatur mollit",
+            "postal_code": 69216,
+            "municipality": "Port Daryl",
+            "state": "Mississippi",
+            "n_interior": "5248",
+            "n_exterior": "30364"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Candelario34@yahoo.com",
+        "user": {
+            "name": "Katarina",
+            "surname": "Walsh",
+            "second_surname": "Wiza"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 85496,
+                "date": "2021-01-01",
+                "dose": "Primera"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 76379,
+                "date": "2021-03-14",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Macejkovic Ports",
+            "suburb": "consequat Lorem pariatur qui",
+            "postal_code": 51314,
+            "municipality": "East Yasminview",
+            "state": "California"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Jena.Bartoletti@hotmail.com",
+        "user": {
+            "name": "Michaela",
+            "surname": "Mueller",
+            "second_surname": "Monahan"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 50174,
+                "date": "2021-08-30",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 97139,
+                "date": "2020-12-02",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Morton Court",
+            "suburb": "laboris cillum veniam exercitation",
+            "postal_code": 63303,
+            "municipality": "North Jaron",
+            "state": "West Virginia",
+            "n_interior": "41207",
+            "n_exterior": "14563"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Alexandria.Mosciski@gmail.com",
+        "user": {
+            "name": "Michaela",
+            "surname": "Altenwerth",
+            "second_surname": "Padberg"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 39705,
+                "date": "2021-08-23",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Juvenal Plain",
+            "suburb": "amet dolore quis elit",
+            "postal_code": 16997,
+            "municipality": "North Elmira",
+            "state": "Michigan",
+            "n_exterior": "50090",
+            "n_interior": "2657"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Theron1@gmail.com",
+        "user": {
+            "name": "Kamren",
+            "surname": "Jaskolski",
+            "second_surname": "Corkery"
+        },
+        "records": [
+            {
+                "brand": "CanSino",
+                "batch": 81404,
+                "date": "2021-03-09",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 85922,
+                "date": "2021-05-30",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Balistreri Dam",
+            "suburb": "dolor laborum ipsum deserunt occaecat",
+            "postal_code": 68558,
+            "municipality": "West Aurelioland",
+            "state": "Vermont",
+            "n_interior": "41845",
+            "n_exterior": "97801"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Erica_Carter@hotmail.com",
+        "user": {
+            "name": "Briana",
+            "surname": "Abshire",
+            "second_surname": "Gleichner"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 17670,
+                "date": "2021-07-01",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Adrianna Vista",
+            "suburb": "Ut incididunt",
+            "postal_code": 59678,
+            "municipality": "West Violette",
+            "state": "Louisiana",
+            "n_exterior": "3241",
+            "n_interior": "51462"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Marisol.Mueller@gmail.com",
+        "user": {
+            "name": "Theron",
+            "surname": "Lynch",
+            "second_surname": "Ledner"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 24733,
+                "date": "2021-03-13",
+                "dose": "Primera"
+            },
+            {
+                "brand": "Covaxin",
+                "batch": 11992,
+                "date": "2020-11-25",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Feest Skyway",
+            "suburb": "deserunt",
+            "postal_code": 2839,
+            "municipality": "Berryburgh",
+            "state": "Missouri",
+            "n_exterior": "18645",
+            "n_interior": "46197"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Macey.Doyle17@hotmail.com",
+        "user": {
+            "name": "Jairo",
+            "surname": "Klocko",
+            "second_surname": "Purdy"
+        },
+        "records": [
+            {
+                "brand": "CanSino",
+                "batch": 90023,
+                "date": "2021-07-05",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Tavares Mews",
+            "suburb": "incididunt",
+            "postal_code": 48696,
+            "municipality": "West Franzshire",
+            "state": "Rhode Island",
+            "n_interior": "7848",
+            "n_exterior": "77992"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Elmore_Yundt17@yahoo.com",
+        "user": {
+            "name": "Rickie",
+            "surname": "O'Hara",
+            "second_surname": "Streich"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 96962,
+                "date": "2021-04-06",
+                "dose": "Única"
+            },
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 42239,
+                "date": "2021-02-09",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Senger Meadows",
+            "suburb": "tempor non",
+            "postal_code": 46494,
+            "municipality": "Montychester",
+            "state": "Washington",
+            "n_interior": "54907",
+            "n_exterior": "62463"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Austyn.Reinger@hotmail.com",
+        "user": {
+            "name": "Alexandria",
+            "surname": "Ferry",
+            "second_surname": "Ritchie"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 83509,
+                "date": "2020-11-17",
+                "dose": "Única"
+            },
+            {
+                "brand": "Pfizer",
+                "batch": 88031,
+                "date": "2021-09-01",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Walker Dale",
+            "suburb": "et tempor officia",
+            "postal_code": 15523,
+            "municipality": "Elianemouth",
+            "state": "Virginia",
+            "n_exterior": "83872",
+            "n_interior": "13152"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Elna_Block@hotmail.com",
+        "user": {
+            "name": "Luis",
+            "surname": "Moore",
+            "second_surname": "Dickinson"
+        },
+        "records": [
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 57612,
+                "date": "2021-03-03",
+                "dose": "Única"
+            },
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 73063,
+                "date": "2021-07-14",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Franecki Pines",
+            "suburb": "consequat minim",
+            "postal_code": 77230,
+            "municipality": "South Terenceshire",
+            "state": "North Carolina",
+            "n_interior": "84476",
+            "n_exterior": "2556"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Richmond.Abshire33@yahoo.com",
+        "user": {
+            "name": "Maryam",
+            "surname": "Balistreri",
+            "second_surname": "Weissnat"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 29904,
+                "date": "2021-03-29",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Marvin Harbor",
+            "suburb": "minim mollit",
+            "postal_code": 10692,
+            "municipality": "Lake Shaylee",
+            "state": "South Dakota",
+            "n_interior": "83148",
+            "n_exterior": "97992"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Adolphus.Dooley69@hotmail.com",
+        "user": {
+            "name": "Kristopher",
+            "surname": "Reilly",
+            "second_surname": "Okuneva"
+        },
+        "records": [
+            {
+                "brand": "Sputnik V",
+                "batch": 5390,
+                "date": "2021-09-30",
+                "dose": "Única"
+            },
+            {
+                "brand": "Pfizer",
+                "batch": 46811,
+                "date": "2020-11-08",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Keebler Mountain",
+            "suburb": "veniam non id",
+            "postal_code": 89050,
+            "municipality": "Bodechester",
+            "state": "Kansas",
+            "n_interior": "92775",
+            "n_exterior": "7227"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Orland.Hagenes38@gmail.com",
+        "user": {
+            "name": "Malvina",
+            "surname": "Kozey",
+            "second_surname": "Kuhlman"
+        },
+        "records": [
+            {
+                "brand": "Moderna",
+                "batch": 91934,
+                "date": "2021-09-17",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Torey Inlet",
+            "suburb": "mollit in",
+            "postal_code": 99322,
+            "municipality": "Lake Tyrellfurt",
+            "state": "Nevada",
+            "n_exterior": "32306",
+            "n_interior": "37545"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Lauretta.Conn71@hotmail.com",
+        "user": {
+            "name": "Shanie",
+            "surname": "Schimmel",
+            "second_surname": "Kerluke"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 7046,
+                "date": "2021-04-15",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Nels Stravenue",
+            "suburb": "non aute amet",
+            "postal_code": 13089,
+            "municipality": "O'Konburgh",
+            "state": "Kentucky",
+            "n_interior": "91269",
+            "n_exterior": "47278"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Murphy15@hotmail.com",
+        "user": {
+            "name": "Ron",
+            "surname": "Olson",
+            "second_surname": "Fadel"
+        },
+        "records": [
+            {
+                "brand": "CanSino",
+                "batch": 1862,
+                "date": "2021-03-12",
+                "dose": "Única"
+            },
+            {
+                "brand": "Pfizer",
+                "batch": 20623,
+                "date": "2020-12-24",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Cali Wells",
+            "suburb": "reprehenderit",
+            "postal_code": 28065,
+            "municipality": "Port Clemmieville",
+            "state": "Delaware",
+            "n_exterior": "88735",
+            "n_interior": "85608"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Kay_Lind44@hotmail.com",
+        "user": {
+            "name": "Ford",
+            "surname": "Berge",
+            "second_surname": "Kassulke"
+        },
+        "records": [
+            {
+                "brand": "AztraZeneca",
+                "batch": 75294,
+                "date": "2020-12-17",
+                "dose": "Única"
+            }
+        ],
+        "adress": {
+            "street": "Kilback Alley",
+            "suburb": "aute amet",
+            "postal_code": 79007,
+            "municipality": "Port Oceanechester",
+            "state": "Maine",
+            "n_interior": "74949",
+            "n_exterior": "83002"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Houston17@hotmail.com",
+        "user": {
+            "name": "Dana",
+            "surname": "Bernhard",
+            "second_surname": "Rempel"
+        },
+        "records": [
+            {
+                "brand": "Johnson & Johnson",
+                "batch": 14155,
+                "date": "2020-12-19",
+                "dose": "Primera"
+            },
+            {
+                "brand": "AztraZeneca",
+                "batch": 52705,
+                "date": "2021-05-13",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Kenyatta Common",
+            "suburb": "anim eu nostrud exercitation",
+            "postal_code": 21811,
+            "municipality": "Javierfurt",
+            "state": "Connecticut",
+            "n_interior": "14780",
+            "n_exterior": "30325"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Dominic_Okuneva@yahoo.com",
+        "user": {
+            "name": "Shannon",
+            "surname": "Weissnat",
+            "second_surname": "Heaney"
+        },
+        "records": [
+            {
+                "brand": "Covaxin",
+                "batch": 6390,
+                "date": "2021-03-06",
+                "dose": "Única"
+            },
+            {
+                "brand": "Sinopharm BBIBP",
+                "batch": 59717,
+                "date": "2021-08-14",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Carlie Skyway",
+            "suburb": "amet sed",
+            "postal_code": 70339,
+            "municipality": "Vitoberg",
+            "state": "Maryland",
+            "n_interior": "3653",
+            "n_exterior": "24658"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": true
+        }
+    },
+    {
+        "email": "Zula26@gmail.com",
+        "user": {
+            "name": "Concepcion",
+            "surname": "Morar",
+            "second_surname": "Koepp"
+        },
+        "records": [
+            {
+                "brand": "Pfizer",
+                "batch": 84863,
+                "date": "2020-12-09",
+                "dose": "Segunda"
+            },
+            {
+                "brand": "Pfizer",
+                "batch": 45822,
+                "date": "2021-09-14",
+                "dose": "Segunda"
+            }
+        ],
+        "adress": {
+            "street": "Jedediah Bypass",
+            "suburb": "laborum",
+            "postal_code": 28928,
+            "municipality": "Port Enochfurt",
+            "state": "New Mexico",
+            "n_interior": "42568"
+        },
+        "ailments": {
+            "diabetes": true,
+            "hypertension": false
+        }
+    },
+    {
+        "email": "Tara.Beatty@gmail.com",
+        "user": {
+            "name": "Francisca",
+            "surname": "Marks",
+            "second_surname": "Goldner"
+        },
+        "records": [
+            {
+                "brand": "CanSino",
+                "batch": 80281,
+                "date": "2021-02-16",
+                "dose": "Primera"
+            }
+        ],
+        "adress": {
+            "street": "Ondricka Shoal",
+            "suburb": "nulla sit labore",
+            "postal_code": 54678,
+            "municipality": "Diannatown",
+            "state": "New Mexico",
+            "n_interior": "35174",
+            "n_exterior": "15941"
+        },
+        "ailments": {
+            "diabetes": false,
+            "hypertension": false
+        }
+    }
+]

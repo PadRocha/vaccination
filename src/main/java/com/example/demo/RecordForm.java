@@ -37,6 +37,14 @@ public class RecordForm extends HorizontalLayout {
         add(date, brand, batch, dose);
     }
 
+    public void disable() {
+        date.setReadOnly(true);
+        binder.setReadOnly(true);
+        brand.setReadOnly(true);
+        batch.setReadOnly(true);
+        dose.setReadOnly(true);
+    }
+
     public Binder<Record> getBinder() {
         return binder;
     }
@@ -45,6 +53,13 @@ public class RecordForm extends HorizontalLayout {
         try {
             binder.writeBean(record);
         } catch (ValidationException e) {
+        }
+    }
+
+    public void write(Record record) {
+        try {
+            binder.readBean(record);
+        } catch (Exception e) {
         }
     }
 

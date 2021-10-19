@@ -3,17 +3,32 @@ package com.example.demo;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
+import java.util.stream.Collectors;
+import java.lang.reflect.Type;
+import java.time.LocalDate;
 
+import com.google.gson.reflect.TypeToken;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.JsonDeserializationContext;
+import com.google.gson.JsonDeserializer;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonParseException;
+import com.google.gson.JsonSyntaxException;
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.checkbox.Checkbox;
 import com.vaadin.flow.component.checkbox.CheckboxGroup;
 import com.vaadin.flow.component.orderedlayout.FlexLayout;
 import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
+import com.vaadin.flow.component.dialog.Dialog;
 import com.vaadin.flow.component.textfield.TextField;
+import com.vaadin.flow.data.value.ValueChangeMode;
 import com.vaadin.flow.component.grid.Grid;
 import com.vaadin.flow.component.html.Hr;
 import com.vaadin.flow.router.Route;
+
+import java.io.FileReader;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -24,15 +39,14 @@ public class MainView extends FlexLayout {
     Logger logger = LoggerFactory.getLogger(MainView.class);
     List<Expediente> expedientes = new ArrayList<>();
     Grid<Expediente> grid = new Grid<>(Expediente.class);
+    Dialog dialog = new Dialog();
+    TextField filter = new TextField();
 
     public MainView() {
+        init();
         RecordForm record_form = new RecordForm();
         UserForm user_form = new UserForm();
         AdressForm adress_form = new AdressForm();
-
-        // *------------------------------------------------------------------*/
-        // * Email
-        // *------------------------------------------------------------------*/
 
         HorizontalLayout email_content = new HorizontalLayout();
         TextField email = new TextField();
@@ -40,10 +54,6 @@ public class MainView extends FlexLayout {
         email.setPlaceholder("correo@correo.com");
         email.setRequired(true);
         email_content.add(email);
-
-        // *------------------------------------------------------------------*/
-        // * Ailments
-        // *------------------------------------------------------------------*/
 
         HorizontalLayout ailments_content = new HorizontalLayout();
         CheckboxGroup<String> _ailments = new CheckboxGroup<>();
@@ -80,9 +90,15 @@ public class MainView extends FlexLayout {
             send.setEnabled(record_form.isValid() && user_form.isValid() && adress_form.isValid() && !email.isEmpty());
         });
 
+        // *------------------------------------------------------------------*/
+        // * Send Event
+        // *------------------------------------------------------------------*/
+
         send.setEnabled(false);
         send.addClickListener(click -> {
             if (record_form.isValid() && user_form.isValid() && adress_form.isValid() && !email.isEmpty()) {
+
+                // logger.info()
                 List<Record> records = new ArrayList<>();
                 Record record = new Record();
                 record_form.read(record);
@@ -103,24 +119,126 @@ public class MainView extends FlexLayout {
                 expediente.setEmail(email.getValue());
                 expedientes.add(expediente);
 
+                filter.clear();
                 grid.setItems(expedientes);
             }
         });
 
+        // *------------------------------------------------------------------*/
+        // * Filter
+        // *------------------------------------------------------------------*/
+
+        filter.setLabel("Buscar");
+        filter.setPlaceholder("correo@correo.com");
+        filter.setTitle("Buscar por correo");
+        filter.setClearButtonVisible(true);
+        filter.setValueChangeMode(ValueChangeMode.EAGER);
+        filter.addValueChangeListener(txt -> {
+            grid.setItems(expedientes.stream().filter(expediente -> {
+                return expediente.getEmail().matches("^" + filter.getValue() + ".*");
+            }).collect(Collectors.toList()));
+        });
+        row.add(filter);
+
+        // *------------------------------------------------------------------*/
+        // * Grid config
+        // *------------------------------------------------------------------*/
+
         grid.removeAllColumns();
+        grid.addColumn(Expediente::getEmail).setHeader("Email");
         grid.addColumn(expediente -> {
             User user = expediente.getUser();
             return user.getName() + " " + user.getSurname() + " " + user.getSecond_surname();
         }).setHeader("Usuario");
-        grid.addColumn(Expediente::getEmail).setHeader("Email");
         grid.addColumn(expediente -> {
             Adress adress = expediente.getAdress();
             return adress.getStreet() + " " + adress.getN_exterior() + " " + adress.getN_interior() + " "
                     + adress.getSuburb() + " " + adress.getPostal_code() + " " + adress.getMunicipality() + " "
                     + adress.getState();
         }).setHeader("Dirección");
-        row.add(grid);
+        grid.addColumn(expediente -> {
+            List<String> ails = new ArrayList<>();
+            Ailments ailments = expediente.getAilments();
+            if (ailments.getDiabetes()) {
+                ails.add("Diabetes");
+            }
+            if (ailments.getHypertension()) {
+                ails.add("Hypertensión");
+            }
+            return ails.size() < 1 ? "ninguno" : String.join(", ", ails);
+        }).setHeader("Padecimientos");
 
+        // *------------------------------------------------------------------*/
+        // * Grid Button
+        // *------------------------------------------------------------------*/
+
+        VerticalLayout row_dialog = new VerticalLayout();
+        HorizontalLayout buttons = new HorizontalLayout();
+        Button update = new Button("Update");
+        List<RecordForm> forms = new ArrayList<>();
+        update.getStyle().set("display", "none");
+        dialog.add(row_dialog);
+        buttons.add(new Button("Add", click -> {
+            RecordForm popup_record = new RecordForm();
+            row_dialog.add(popup_record);
+            forms.add(popup_record);
+            update.getStyle().set("display", "block");
+        }), update);
+        dialog.add(buttons);
+        grid.addComponentColumn(expediente -> {
+            return new Button("Ver más", clickEvent -> {
+                row_dialog.removeAll();
+                expediente.getRecords().forEach(record -> {
+                    RecordForm popup_record = new RecordForm();
+                    popup_record.write(record);
+                    popup_record.disable();
+                    row_dialog.add(popup_record);
+                });
+                update.addClickListener(click -> {
+                    update.getStyle().set("display", "none");
+                    forms.forEach((form) -> {
+                        if (form.isValid()) {
+                            Record _record = new Record();
+                            form.read(_record);
+                            form.disable();
+                            expediente.addRecords(_record);
+                        } else {
+                            update.getStyle().set("display", "block");
+                        }
+                    });
+                });
+                dialog.open();
+            });
+        });
+
+        row.add(grid);
         getStyle().set("padding", "0 5rem");
+    }
+
+    private void init() {
+        Gson gson = new GsonBuilder().registerTypeAdapter(LocalDate.class, new JsonDeserializer<LocalDate>() {
+            @Override
+            public LocalDate deserialize(JsonElement json, Type type,
+                    JsonDeserializationContext jsonDeserializationContext) throws JsonParseException {
+                return LocalDate.parse(json.getAsJsonPrimitive().getAsString());
+            }
+        }).create();
+        try {
+            Type listType = new TypeToken<ArrayList<Expediente>>() {
+            }.getType();
+            List<Expediente> json = gson.fromJson(new FileReader(
+                    "D:\\proch\\Desktop\\GIT\\Java\\spring\\demo\\src\\main\\java\\com\\example\\demo\\expedientes.json"),
+                    listType);
+            expedientes.addAll(json);
+        } catch (JsonSyntaxException e) {
+            logger.info("Syntax");
+            logger.info(e.getMessage());
+        } catch (JsonParseException e) {
+            logger.info("Parse");
+        } catch (Exception e) {
+            logger.info(e.getMessage());
+        } finally {
+            grid.setItems(expedientes);
+        }
     }
 }
